@@ -1,38 +1,4 @@
-# I-Sheng Fang
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/IShengFang/ishengfang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IShengFang/ishengfang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am I-Sheng “Ethan” Fang.
+I am research assistant at EVA lab, National Chiao Tung University. My research interests are in the area of artificial intelligence, computer vision and deep learning, especially in generative model. I also interest in their application, in particular, East Asian Ideograph font design. Currently, my works are using GAN to segment units on PCB, and using adversarial learning to generate East Asian ideograph. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
+I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
+My personal interests are film photography(check out my instagram: [@ishengfang](https://www.instagram.com/ishengfang/)) and baseball(my position is second baseman).
