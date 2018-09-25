@@ -2,7 +2,7 @@
 
 I am I-Sheng “Ethan” Fang.
 
-I am research assistant at EVA lab, National Chiao Tung University. My research interests are in the area of artificial intelligence, computer vision and deep learning, especially in generative model. I also interest in their application, in particular, East Asian Ideograph font design. Currently, my works are using GAN to segment units on PCB, and using adversarial learning to generate East Asian ideograph. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
+I am a research assistant at Enriched Vision Applications Lab, National Chiao Tung University. My research interests are in the area of artificial intelligence, computer vision and deep learning, especially in generative model. I also interest in their application, in particular, East Asian Ideograph font design. Currently, my works are using GAN to segment units on PCB, and using adversarial learning to generate East Asian ideograph. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
 
 I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
