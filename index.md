@@ -1,4 +1,4 @@
-# I-Sheng "Ethan" Fang/Gî-Tshiânn Png/方宜晟
+# I-Sheng Fang aka Ethan aka 方宜晟 aka Gî-Tshiânn Png
 ("I-Sheng" pronounce like "Ethan")
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) 
