@@ -1,4 +1,4 @@
-# 方宜晟 / I-Sheng "Ethan" Fang/ Gî-Tshiânn Png
+# I-Sheng "Ethan" Fang/Gî-Tshiânn Png/方宜晟
 ("I-Sheng" pronounce like "Ethan")
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) 
@@ -16,9 +16,9 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Publications
 
-![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
+### Ｓelf-Contained Stylization via Steganography for Reverse and Serial Style Transfer
 
-- **Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer** 
-  - Hung-Yu Chen*, I-Sheng Fang*, Chia-Ming Cheng, Wei-Chen Chiu (* indicates equal contribution.) 
-  - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
-  - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
+![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
+- Hung-Yu Chen*, I-Sheng Fang*, Chia-Ming Cheng, Wei-Chen Chiu (* indicates equal contribution.) 
+- IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
+- [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
