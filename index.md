@@ -1,7 +1,7 @@
 # 方宜晟 / I-Sheng "Ethan" Fang/ Gî-Tshiânn Png
 ("I-Sheng" pronounce like "Ethan")
 
-[[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/) [[instagram]](https://www.instagram.com/ishengfang/) 
+[[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) 
 
 ## Description
 I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
