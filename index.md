@@ -60,7 +60,18 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - NCCU Deep Learning \& TWSIAM Student Group
   - Winning  *first* place of study group final presentation in NCCU. 
 
-## Deep Learning Projects
+## Open Source Projects
+
+- [Relativistic average GAN with Keras](https://github.com/IShengFang/Relativistic-average-GAN-Keras), 2018
+- [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras), 2018
+- [ResNet-DenseNet-Notebook](https://github.com/IShengFang/ResNet-DenseNet-Notebook), 2018
+
+## Reseach Collections
+- [Typography Research Collection](https://github.com/IShengFang/TypographyResearchCollection)
+  - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
+  - If anyone found new reseach, please email it me :smiley:
+
+## Research Projects
 
 - Font Design with Progressive invariant GANs
   - *Honorable Mention* of MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017.
