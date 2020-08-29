@@ -80,7 +80,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Poster of Taiwan Society for Industrial and Applied Mathematics Annual Meeting, 2017
   - Using autoencoder and conditional GAN to embed font in latent space.
   - Advisor: Prof. Yen-Lung Tsai.
-- Kaggle Quora Question Pairs}
+- Kaggle Quora Question Pairs
   - 2017
   - Final Project of the course, Web Searching and Mining, NCCU.
   - Binary classified question pairs same or differnet. Comparing 1DCNN, 2DCNN, LSTM model. 
