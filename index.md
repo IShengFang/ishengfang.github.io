@@ -3,7 +3,6 @@
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) 
 
-## Description
 I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
 Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/).I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/#publications).
 
@@ -16,7 +15,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Publications
 
-### Ｓelf-Contained Stylization via Steganography for Reverse and Serial Style Transfer
+### Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer
 
 ![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
 - Hung-Yu Chen*, I-Sheng Fang*, Chia-Ming Cheng, Wei-Chen Chiu (* indicates equal contribution.) 
