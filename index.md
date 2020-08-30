@@ -1,7 +1,7 @@
 # I-Sheng Fang / Ethan Fang / 方 宜晟 / Gî-Tshiânn Png
 ("I-Sheng" pronounce like "Ethan")
 
-[[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) 
+[[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](./ishengfang_cv.pdf)
 
 I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
 Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/).I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
