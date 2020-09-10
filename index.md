@@ -67,7 +67,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Reseach Collections
 - [Typography Research Collection](https://github.com/IShengFang/TypographyResearchCollection)
   - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
-  - If anyone found new reseach, please email it me :)
+  - If anyone found new reseach, please email it to me :)
 
 ## Research Projects
 
