@@ -83,6 +83,10 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Final Project of the course, Web Searching and Mining, NCCU.
   - Binary classified question pairs same or differnet. Comparing 1DCNN, 2DCNN, LSTM model. 
   - #646 Score: 0.17892 
+  
+## Github Stats
+![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
+[![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
