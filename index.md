@@ -3,10 +3,10 @@
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](./ishengfang_cv.pdf)
 
-I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
+I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
 Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/).I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
-My research interests are in the area of gerative model, model uncertainty, style transfer, computer vision and deep learning. I also interest in their creativity applicationm, likes East Asian Ideograph font design and style transfer. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
+My research interests are in the area of gerative model, model uncertainty, style transfer, computer vision and deep learning. I also interest in their creativity application, likes East Asian Ideograph font design and style transfer. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
 
 My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
 
@@ -67,7 +67,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Reseach Collections
 - [Typography Research Collection](https://github.com/IShengFang/TypographyResearchCollection)
   - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
-  - If anyone found new reseach, please email it me :)
+  - If anyone found new research, please email it to me :)
 
 ## Research Projects
 
@@ -83,7 +83,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Final Project of the course, Web Searching and Mining, NCCU.
   - Binary classified question pairs same or differnet. Comparing 1DCNN, 2DCNN, LSTM model. 
   - #646 Score: 0.17892 
+  
+## Github Stats
+![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
+[![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
-email(personal): [nf0126@gmanil.com](nf0126@gmanil.com), [ishengfang@icloud.com](ishengfang@icloud.com)
+email(personal): [nf0126@gmanil.com](mailto:nf0126@gmanil.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
+
+email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)
