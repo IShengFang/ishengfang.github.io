@@ -3,8 +3,8 @@
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](./ishengfang_cv.pdf)
 
-I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
-Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/).I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
+I am a graduate student of The Master's Degree Program in Robotics at National Yang Ming Chiao Tung University (merged by National Chiao Tung University and National Yang Ming University), Taiwan. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
+Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/). I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
 My research interests are in the area of gerative model, model uncertainty, style transfer, computer vision and deep learning. I also interest in their creativity application, likes East Asian Ideograph font design and style transfer. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
 
@@ -23,9 +23,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Education
 
 - Graduate Student
-  - The Master's Degree Program in Robotics, National Chiao Tung University, Taiwan.
+  - The Master's Degree Program in Robotics, National Yang Ming Chiao Tung University, Taiwan.
+    - Merged by National Chiao Tung University and National Yang Ming University on $1^st$, February, 2021.
   - September, 2020 -
 
+- Graduate Student (temporally leaving)
+  - Computer Sciences, National Chengchi University.
+  - January, 2020 -
   
 - Bachelor of Science
   - Mathematical Sciences, National Cheng Chi University, Taiwan.
