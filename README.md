@@ -1,2 +1,2 @@
 # ishengfang.github.io
-This repository is simple portfolio by github page.
+This repository is for simple portfolio made by github page.
