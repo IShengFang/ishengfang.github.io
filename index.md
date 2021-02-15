@@ -94,6 +94,6 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Contact
 
-email(personal): [nf0126@gmanil.com](mailto:nf0126@gmanil.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
+email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
 
 email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)
