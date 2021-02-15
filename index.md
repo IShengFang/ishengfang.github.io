@@ -46,7 +46,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - July, 2018 - September, 2018
   - Teacher is Prof. Yen-lung Tsai.
 - Fire Fighting Substitute Military Services
-  - YungPing Branch, Yonghe Squadron, Seventh Crops, Fire Department, New Taipei City Government
+  - YungPing Branch, Yonghe Squadron, Seventh Crops, Fire Department, New Taipei City Government
   - March, 2018 - June, 2018
 - Deep Learning Scientist
   - InQtech Co.,Ltd
