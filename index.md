@@ -24,7 +24,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 - Graduate Student
   - The Master's Degree Program in Robotics, National Yang Ming Chiao Tung University, Taiwan.
-    - Merged by National Chiao Tung University and National Yang Ming University on $1^st$, February, 2021.
+    - Merged by National Chiao Tung University and National Yang Ming University on 1, February, 2021.
   - September, 2020 -
 
 - Graduate Student (temporally leaving)
