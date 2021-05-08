@@ -73,7 +73,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
   - If anyone found new research, please email it to me :)
 
-## Research Projects
+## Projects
+- **A Century of Heartfelt Sentiment: 100$^{th}$ Anniversary Secial Exhibition of the Taiwan Cultural Association**
+  - The exhibition of National Museum of Taiwan Literature, Tainan , Taiwan.
+    - 2021/05/08 - 2022/01/02
+    - National Museum of Taiwan Literature Exhibition Room D
+  - Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
+  - [[exhibition page]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[video(coming soon)]
 
 - Font Design with Progressive invariant GANs
   - *Honorable Mention* of MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017.
