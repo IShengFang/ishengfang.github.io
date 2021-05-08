@@ -21,7 +21,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
 ## Projects
-### A Century of Heartfelt Sentiment: 100th Anniversary Secial Exhibition of the Taiwan Cultural Association**
+### A Century of Heartfelt Sentiment: 100th Anniversary Secial Exhibition of the Taiwan Cultural Association
 - 2021/05/08 - 2022/01/02
 - Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
 - Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
