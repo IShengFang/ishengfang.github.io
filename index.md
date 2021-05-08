@@ -20,6 +20,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
 - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
+## Projects
+### A Century of Heartfelt Sentiment: 100th Anniversary Secial Exhibition of the Taiwan Cultural Association**
+- 2021/05/08 - 2022/01/02
+- Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
+- Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
+- [[exhibition page]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[video(coming soon)]
+
 ## Education
 
 - Graduate Student
@@ -73,13 +80,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
   - If anyone found new research, please email it to me :)
 
-## Projects
-- **A Century of Heartfelt Sentiment: 100th Anniversary Secial Exhibition of the Taiwan Cultural Association**
-  - 2021/05/08 - 2022/01/02
-  - Exhibition Room D, National Museum of Taiwan Literature
-  - Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
-  - [[exhibition page]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[video(coming soon)]
-
+## Other Research Projects
 - Font Design with Progressive invariant GANs
   - *Honorable Mention* of MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017.
   - Introduced GLCM, a invariant, in progressive growing VAE-GAN to embed font in latent space. Generated new font or glyph by modtified the latent space Improved training speed, convergence speed and higher resolution.
@@ -87,11 +88,6 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Poster of Taiwan Society for Industrial and Applied Mathematics Annual Meeting, 2017
   - Using autoencoder and conditional GAN to embed font in latent space.
   - Advisor: Prof. Yen-Lung Tsai.
-- Kaggle Quora Question Pairs
-  - 2017
-  - Final Project of the course, Web Searching and Mining, NCCU.
-  - Binary classified question pairs same or differnet. Comparing 1DCNN, 2DCNN, LSTM model. 
-  - #646 Score: 0.17892 
   
 ## Github Stats
 ![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
