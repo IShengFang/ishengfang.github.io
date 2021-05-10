@@ -26,7 +26,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ![](https://mocfile.moc.gov.tw/images/large/06be9798-a78f-43b9-bcfe-985d163a2fe4.jpg)
 - 2021/05/08 - 2022/01/02
 - Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
-- Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
+- Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
 - [[exhibition page]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[press release(MoC, Taiwan)]](https://www.moc.gov.tw/information_250_127289.html)[video(coming soon)]
 
 ## Education
