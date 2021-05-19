@@ -68,7 +68,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Leopard Mobile
   - July, 2017 - September, 2017
 - GAN Discussion Host
-  - NCCU Deep Learning \& TWSIAM Student Group
+  - NCCU Deep Learning & TWSIAM Student Group
   - Winning  *first* place of study group final presentation in NCCU. 
 
 ## Open Source Projects
