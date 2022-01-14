@@ -27,7 +27,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - 2021/05/08 - 2022/01/02
 - Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
 - Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
-- [[exhibition page(English)]](https://www.nmtl.gov.tw/en/exhibition_83_245.html)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_83_245.html)[[press release(MoC, Taiwan)]](https://www.moc.gov.tw/information_250_127289.html)[[fanpage post]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
+- [[exhibition page(English)]](https://www.nmtl.gov.tw/en/exhibition_83_245.html)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_85_246.html)[[press release(MoC, Taiwan)]](https://www.moc.gov.tw/information_250_127289.html)[[fanpage post]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
