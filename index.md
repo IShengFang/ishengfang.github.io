@@ -13,6 +13,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Publications
 
+### Single Image Reflection Removal based on Knowledge-distilling Content Disentanglement
+
+![](./SIRR_w_KD.png)
+- Yan-Tsung Peng, Kai-Han Cheng, I-Sheng Fang, Wen-Yi Peng, Jr-Shian Wu
+- IEEE Signal Processing Letters(SPL) Feb. 2022 
+- [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9705543)
+
 ### Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer
 
 ![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
@@ -47,6 +54,11 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - September, 2013 - January, 2018
 
 ## Experience
+
+- Software Engineer Intern
+  - Microsoft AI RD Center, Taiwan
+  - March, 2022 - 
+  - Face Science
 
 - Research Assistant
   - Enriched Vision Applications Lab, National Chiao Tung University, Taiwan.
@@ -102,3 +114,5 @@ My personal interests are Typography, Film Photography (check out my instagram [
 email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
 
 email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)
+
+email(NYCU): [isfang.en09@nctu.edu.tw](mailto:isfang.en09@nycu.edu.tw)
