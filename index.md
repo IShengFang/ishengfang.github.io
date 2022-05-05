@@ -56,7 +56,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Experience
 
 - Software Engineer Intern
-  - Microsoft AI RD Center, Taiwan
+  - Microsoft AI R&D Center, Taiwan
   - March, 2022 - 
   - Face Science
 
