@@ -45,9 +45,9 @@ My personal interests are Typography, Film Photography (check out my instagram [
     - Merged by National Chiao Tung University and National Yang Ming University on 1, February, 2021.
   - September, 2020 -
 
-- Graduate Student (temporally leaving)
+- Graduate Student
   - Computer Sciences, National Chengchi University.
-  - January, 2020 -
+  - January, 2020 - August, 2020
   
 - Bachelor of Science
   - Mathematical Sciences, National Cheng Chi University, Taiwan.
@@ -57,7 +57,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 - Software Engineer Intern
   - Microsoft AI R&D Center, Taiwan
-  - March, 2022 - 
+  - March, 2022 - November, 2022
   - Face Science
 
 - Research Assistant
