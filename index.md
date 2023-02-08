@@ -3,12 +3,12 @@
 
 [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](./ishengfang_cv.pdf)
 
-I am a graduate student of The Master's Degree Program in Robotics at National Yang Ming Chiao Tung University (the merger of National Chiao Tung University and National Yang Ming University), Taiwan. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
+I received my Master degree in Robotics at National Yang Ming Chiao Tung University (the merger of National Chiao Tung University and National Yang Ming University) in February, 2023. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
 Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/). I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
 My research interests are in the area of generative model, model uncertainty, style transfer, computer vision and deep learning. I also interest in their creativity application, likes East Asian Ideograph font design and style transfer. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
 
-My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
+My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Baseball, Strength and Conditioning Training.
 
 
 ## Publications
@@ -40,10 +40,10 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Education
 
-- Graduate Student
+- Master of Science
   - The Master's Degree Program in Robotics, National Yang Ming Chiao Tung University, Taiwan.
     - Merged by National Chiao Tung University and National Yang Ming University on 1, February, 2021.
-  - September, 2020 -
+  - September, 2020 - February, 2023
 
 - Graduate Student
   - Computer Sciences, National Chengchi University.
@@ -58,8 +58,8 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - Software Engineer Intern
   - Microsoft AI R&D Center, Taiwan
   - March, 2022 - November, 2022
-  - Face Science
-
+  - Face science team
+  - Vision transformer (ViT) and percpetual loss 
 - Research Assistant
   - Enriched Vision Applications Lab, National Chiao Tung University, Taiwan.
   - September, 2018 - September, 2019
