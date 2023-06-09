@@ -16,7 +16,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ### ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network
 ![](./ES3Net.gif)
 - I-Sheng Fang, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023.
   - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/)
 - [[github]](https://github.com/IShengFang/ES3Net)[[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
 
