@@ -55,7 +55,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 - Graduate Student
   - Computer Sciences, National Chengchi University.
-  - January, 2020 - August, 2020
+  - January, 2020 - June, 2020
   
 - Bachelor of Science
   - Mathematical Sciences, National Cheng Chi University, Taiwan.
