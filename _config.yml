@@ -2,7 +2,4 @@ title: I-Sheng "Ethan" Fang
 logo: ./logo.jpg
 description: DeepLearning X Typography X Photography
 theme: jekyll-theme-minimal
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-KGB67FZW0F"
+google_analytics: "G-KGB67FZW0F"
