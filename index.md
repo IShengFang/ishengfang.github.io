@@ -5,7 +5,7 @@
 
 I am a Research Assistant in CITI at Academia Sinica, working with [Dr. Jun-Cheng Chen](https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html). I received my Master degree in Robotics at National Yang Ming Chiao Tung University (the merger of National Chiao Tung University and National Yang Ming University) in January, 2023. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan, working with [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/). I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, working with [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
-My research interests are in the area of generative models, self/wakly-supervised learning, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design, deepfake for education. I believe AI is leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
+My research interests are in the area of generative modeling, self/wakly-supervised learning, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design, deepfake for education. I believe AI is a leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
 
 My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Baseball, Strength and Conditioning Training.
 
@@ -14,23 +14,23 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ### ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network
 ![](https://github.com/IShengFang/ES3Net/raw/main/figures/teaser_drone.gif)
-- I-Sheng Fang, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
+- **I-Sheng Fang**, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023.
   - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/2024/01/03/2023/)
-    - Best Paper Award
+    - **Best Paper Award**
 - [[github]](https://github.com/IShengFang/ES3Net)[[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
 
 ### Single Image Reflection Removal based on Knowledge-distilling Content Disentanglement
 
 ![](./SIRR_w_KD.png)
-- Yan-Tsung Peng, Kai-Han Cheng, I-Sheng Fang, Wen-Yi Peng, Jr-Shian Wu
+- Yan-Tsung Peng, Kai-Han Cheng, **I-Sheng Fang**, Wen-Yi Peng, Jr-Shian Wu
 - IEEE Signal Processing Letters(SPL) Feb. 2022 
 - [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9705543)[[github]](https://github.com/ytpeng-aimlab/Image-Reflection-Removal-based-on-Knowledge-distilling-Content-Disentanglement)
 
 ### Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer
 
 ![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
-- Hung-Yu Chen†, I-Sheng Fang†, Chia-Ming Cheng, Wei-Chen Chiu († indicates equal contribution.) 
+- Hung-Yu Chen†, **I-Sheng Fang†**, Chia-Ming Cheng, Wei-Chen Chiu († indicates equal contribution.) 
 - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
 - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
@@ -63,18 +63,17 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Experience
 
 - Research Assistant
-  - Research Center for Information Technology Innovation, Academia Sinica, Taiwan.
+  - Research Center for Information Technology Innovation(CITI), Academia Sinica, Taiwan.
   - March, 2024 - 
-  - Working with [Dr. Jun-Cheng Chen](https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html).
+  - Working on generative model with [Dr. Jun-Cheng Chen](https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html).
 - Software Engineer Intern
   - Microsoft AI R&D Center, Taiwan
   - March, 2022 - November, 2022
-  - Face science team
-  - Vision transformer (ViT) and percpetual loss 
+  - Working on vision transformer(ViT), percpetual loss, and generative model with SunDa Yang, [Chien-Yi Wang](https://chienyiwang.github.io/), [Prof. Shang-Hong Lai](https://www.cs.nthu.edu.tw/~lai/), and [Dr. Trista Chen](https://www.linkedin.com/in/tristachen), and the face science team. 
 - Research Assistant
   - Enriched Vision Applications Lab, National Chiao Tung University, Taiwan.
   - September, 2018 - September, 2019
-  - Working with [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/)
+  - Working on style transfer and generative model with [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/)
 - Teaching Assistant
   - The First Step of AI and Deep Learning with Python, the MOOCs of National Chengchi University.
   - July, 2018 - September, 2018
