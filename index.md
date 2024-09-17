@@ -18,7 +18,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
             type="video/mp4">
   </video>
 
-- I-Sheng Fang, Yue-Hua Han, Jun-Cheng Chen 
+- **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
 - SIGGRAPH Asia 2024 (Conference Track).
 - [[Project Page]](https://camera-settings-as-tokens.github.io/) [[Demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [github(comming soon)]
 
