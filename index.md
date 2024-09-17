@@ -13,7 +13,11 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Publications
 
 ### Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models
-![](./cat_cherry_blossom_trees_seed87.mp4)
+  <video autoplay controls muted loop playsinline width="100%">
+    <source src="./static/videos/cat_cherry_blossom_trees_seed87.mp4"
+            type="video/mp4">
+  </video>
+
 - I-Sheng Fang, Yue-Hua Han, Jun-Cheng Chen 
 - SIGGRAPH Asia 2024 (Conference Track).
 [[Project Page]](https://camera-settings-as-tokens.github.io/) [[Demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [github(comming soon)]
