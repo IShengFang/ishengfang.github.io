@@ -26,7 +26,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ![](./iToF-RGB_teaser.gif)
 - **I-Sheng Fang**, Wei-Chen Chiu, Yong-Sheng Chen
 - International Conference on Pattern Recognition (ICPR), 2024.
-- [github(comming soon)]
+- [[paper]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf) [[supplementary materials]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr_supp.pdf) [github(comming soon)]
 
 ### ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network
 ![](https://github.com/IShengFang/ES3Net/raw/main/figures/teaser_drone.gif)
