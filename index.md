@@ -53,7 +53,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 ## Projects
 ### A Century of Heartfelt Sentiment: 100th Anniversary Special Exhibition of the Taiwan Cultural Association
 
-![](https://mocfile.moc.gov.tw/images/large/06be9798-a78f-43b9-bcfe-985d163a2fe4.jpg)
+![](https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/images/large/5c43f945-6d3b-44b3-a726-409c45003235.jpg)
 - 2021/05/08 - 2022/05/08
 - Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
 - Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
