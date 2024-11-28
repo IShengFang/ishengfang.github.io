@@ -20,7 +20,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 - **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
 - SIGGRAPH Asia 2024 (Conference Track).
-- [[project page]](https://camera-settings-as-tokens.github.io/) [[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [[dataset]](https://github.com/aiiu-lab/CameraSettings20K)[[code]](https://github.com/aiiu-lab/Camera-Settings-as-Tokens)[[model]](https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2)
+- [[project page]](https://camera-settings-as-tokens.github.io/) [[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [[dataset]](https://github.com/aiiu-lab/CameraSettings20K) [[code]](https://github.com/aiiu-lab/Camera-Settings-as-Tokens) [[model]](https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2)
 
 ### Best of Both Sides: Integration of Absolute and Relative Depth Sensing Modalities Based on iToF and RGB Cameras
 ![](./iToF-RGB_teaser.gif)
