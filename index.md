@@ -137,6 +137,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 ## Service
 Reviewer: NeurIPS 2024, CVPR 2025
+
 Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebook.com/groups/enjoyfonts)
 
 ## Contact
