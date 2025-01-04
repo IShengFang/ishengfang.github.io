@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.4.2/css/all.css">
+<link rel="icon" href="./static/images/favicon.ico">
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -28,7 +31,16 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <!-- <p class="view"><a href="{{ site.github.owner_url }}">[GitHub]</a></p> -->
+        <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
+        <ul class="social-links" style="list-style-type: none; margin: 0; padding: 0;">
+          <li><a href="https://github.com/IShengFang"><i class="fab fa-github"></i> GitHub</a></li>
+          <li><a href="https://www.facebook.com/I.Sheng.Fang"><i class="fab fa-facebook"></i> Facebook</a></li>
+          <li><a href="https://www.instagram.com/ishengfang/"><i class="fab fa-instagram"></i> Instagram</a></li>
+          <li><a href="https://www.linkedin.com/in/i-sheng-fang-83293598/"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+          <li><a href="./ishengfang_cv.pdf"><i class="fas fa-file-alt"></i> CV</a></li>
+          <li><a href="https://scholar.google.com/citations?user=zLeqqSwAAAAJ"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+        </ul>         
         {% endif %}
 
         {% if site.show_downloads %}
