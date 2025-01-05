@@ -94,7 +94,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   ">
 
   <iframe
-    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&adapt_container_width=false&t=0"
+    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&t=0"
     style="
       width: 100%; height: 100%;
       border: none; overflow: hidden;
