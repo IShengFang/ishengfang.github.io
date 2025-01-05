@@ -51,13 +51,71 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
 ## Projects
 ### A Century of Heartfelt Sentiment: 100th Anniversary Special Exhibition of the Taiwan Cultural Association
 
-![](https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/images/large/5c43f945-6d3b-44b3-a726-409c45003235.jpg)
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+">
+
+  <div style="
+    flex: 0 0 72.7272%;
+    position: relative;
+    padding-bottom: 48.4848%;
+    overflow: hidden;
+  ">
+    <img
+      src="https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/images/large/5c43f945-6d3b-44b3-a726-409c45003235.jpg"
+      alt="image"
+      style="
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        object-fit: cover;
+      "
+    />
+  </div>
+
+  <div style="
+    flex: 0 0 27.2727%;
+    position: relative;
+    padding-bottom: 48.4848%;
+    overflow: hidden;
+  ">
+
+  <div style="
+    position: absolute;
+    top: 0; left: 0;
+    /* width: 100%; height: 100%; */
+    width: 160%; height: 160%;
+    transform: scale(0.625);
+    transform-origin: top left;
+    pointer-events: none;
+  ">
+
+  <iframe
+    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&adapt_container_width=false&t=0"
+    style="
+      width: 100%; height: 100%;
+      border: none; overflow: hidden;
+      pointer-events: auto;
+    "
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen="true"
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+  ></iframe>
+
+  </div>
+    
+  </div>
+</div>
+
 - 2021/05/08 - 2022/05/08
 - Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
 - Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
 - [[exhibition page(English)]](https://www.nmtl.gov.tw/en/News_Content_Due.aspx?n=3915&s=139324)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_85_246.html)[[press release (English)]](https://www.moc.gov.tw/en/information_197_127326.html)[[press release (Mandarin)]](https://www.moc.gov.tw/information_250_127289.html)[[fanpage post]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ## Education
 
@@ -130,20 +188,16 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   - Advisor: Prof. Yen-Lung Tsai.
   
 ## Github Stats
-![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
+![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true) 
 [![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Service
-Reviewer: NeurIPS 2024, CVPR 2025
-
+Reviewer: NeurIPS 2024, CVPR 2025  
 Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebook.com/groups/enjoyfonts)
 
 ## Contact
 
-email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
-
-email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)
-
-email(NYCU): [isfang.en09@nycu.edu.tw](mailto:isfang.en09@nycu.edu.tw)
-
-email(Academia Sinica): [ishengfang@citi.sinica.edu.tw](mailto:ishengfang@citi.sinica.edu.tw)
+email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)  
+email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)  
+email(NYCU): [isfang.en09@nycu.edu.tw](mailto:isfang.en09@nycu.edu.tw)  
+email(Academia Sinica): [ishengfang@citi.sinica.edu.tw](mailto:ishengfang@citi.sinica.edu.tw)  
