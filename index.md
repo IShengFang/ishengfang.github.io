@@ -96,12 +96,6 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   <div style="
     position: absolute;
     top: 0; left: 0;
-    width: 100%; height: 100%;
-  ">
-
-  <div style="
-    position: relative;
-    top: 0; left: 0;
     /* width: 100%; height: 100%; */
     width: 160%; height: 160%;
     transform: scale(0.625);
@@ -123,7 +117,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   ></iframe>
   
   </div>
-  </div>
+    
   </div>
 </div>
 
