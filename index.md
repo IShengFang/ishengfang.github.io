@@ -11,10 +11,19 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
 ## Publications
 
 ### Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 16px;
+">
   <video autoplay controls muted loop playsinline width="100%">
     <source src="./cat_cherry_blossom_trees_seed87.mp4"
             type="video/mp4">
   </video>
+</div>
 
 - **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
 - SIGGRAPH Asia 2024 (Conference Track).
@@ -56,6 +65,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   flex-wrap: wrap;
   width: 100%;
   margin: 0 auto;
+  margin-bottom: 16px;
 ">
 
   <div style="
@@ -94,7 +104,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   ">
 
   <iframe
-    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&t=0"
+    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&adapt_container_width=false&t=0"
     style="
       width: 100%; height: 100%;
       border: none; overflow: hidden;
@@ -105,7 +115,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
     allowfullscreen="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
   ></iframe>
-
+  
   </div>
     
   </div>
