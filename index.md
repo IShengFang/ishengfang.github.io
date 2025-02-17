@@ -202,7 +202,7 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
 [![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Service
-Reviewer: NeurIPS 2024, CVPR 2025, ICCV 2025  
+Reviewer: NeurIPS 2024, CVPR 2025, ICCV 2025, NeurIPS 2025  
 Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebook.com/groups/enjoyfonts)
 
 ## Contact
