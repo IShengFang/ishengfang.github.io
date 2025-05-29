@@ -187,7 +187,9 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
 - [Typography Research Collection](https://github.com/IShengFang/TypographyResearchCollection)
   - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
   - If anyone found new research, please email it to me :)
-
+- [Awesome Generate AI for Photography](https://github.com/IShengFang/Awesome-Generate-AI-for-Photography)
+  - With the rapid development of generative AI, photography—one of the most influential and widespread art forms—has undergone significant transformations, uniquely positioned as a medium that bridges technology and humanity to both shape and be shaped by recent generative models. In this awesome list, we collected research works that integrate photographic principles, concepts, techniques, and domain knowledge into generative models, including those for image and video synthesis.
+  - If anyone found new research, please email it to me :)
 ## Other Research Projects
 - Font Design with Progressive invariant GANs
   - *Honorable Mention* of MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017.
