@@ -213,4 +213,5 @@ Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebo
 email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)  
 email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)  
 email(NYCU): [isfang.en09@nycu.edu.tw](mailto:isfang.en09@nycu.edu.tw)  
-email(Academia Sinica): [ishengfang@citi.sinica.edu.tw](mailto:ishengfang@citi.sinica.edu.tw)  
+email(CITI, Academia Sinica): [ishengfang@citi.sinica.edu.tw](mailto:ishengfang@citi.sinica.edu.tw)  
+email(Academia Sinica): [ishengfang@as.edu.tw](mailto:ishengfang@as.edu.tw)  
