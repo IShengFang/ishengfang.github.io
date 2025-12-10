@@ -8,7 +8,33 @@ My research interests are in the area of generative model, self/weakly-supervise
 My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), ⚾️ Baseball, 🏋️ Strength and Conditioning Training, and ✈️ Aviation.
 
 
-## Publications
+## Selected Publications / Presentations
+For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=zLeqqSwAAAAJ) page.
+
+
+### Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters
+![](https://textslider.github.io/static/images/teaser.jpg)
+- Pin-Yen Chiu, **I-Sheng Fang**, Jun-Cheng Chen
+- IEEE Winter Conference on Applications of Computer Vision (WACV), 2026.
+- [[paper]](http://arxiv.org/pdf/2509.18831) [[project page]](https://textslider.github.io/) [[code]](https://github.com/aiiu-lab/TextSlider) 
+
+### Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation 
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 16px;
+">
+  <video autoplay controls muted loop playsinline width="100%">
+    <source src="https://shigon255.github.io/4DGRT-project-page/static/videos/realworld/rs_h264.mp4"
+            type="video/mp4">
+  </video>
+</div>
+- Yi-Ruei Liu†, You-Zhe Xie†, Yu-Hsiang Hsu†, **I-Sheng Fang**‡, Yu-Lun Liu, Jun-Cheng Chen. († Equal contribution. Work done at Academia Sinica as intern. ‡ Internship mentor) 
+- [NeurIPS 2025 SpaVLE workshop](https://space-in-vision-language-embodied-ai.github.io/) Oral
+- [[project page]](https://shigon255.github.io/4DGRT-project-page/) [[paper]](https://arxiv.org/abs/2509.10759) 
+
 
 ### Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models
 
@@ -42,13 +68,6 @@ My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (che
   - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/2024/01/03/2023/)
     - **Best Paper Award**
 - [[github]](https://github.com/IShengFang/ES3Net)[[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
-
-### Single Image Reflection Removal based on Knowledge-distilling Content Disentanglement
-
-![](./SIRR_w_KD.png)
-- Yan-Tsung Peng, Kai-Han Cheng, **I-Sheng Fang**, Wen-Yi Peng, Jr-Shian Wu
-- IEEE Signal Processing Letters(SPL) Feb. 2022 
-- [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9705543)[[github]](https://github.com/ytpeng-aimlab/Image-Reflection-Removal-based-on-Knowledge-distilling-Content-Disentanglement)
 
 ### Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer
 
