@@ -224,7 +224,8 @@ For a complete list of publications, please visit my [Google Scholar](https://sc
 [![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Service
-Reviewer: NeurIPS 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, WACV 2026  
+Reviewer: NeurIPS 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, WACV 2026, ICRA 2026, CVPR 2026, ECCV 2026
+Organizer: 	[https://gaipw.github.io/wacv26/index.html](Workshop on Generative AI for Photography, WACV 2026) (Primary and Contact Organizer)
 Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebook.com/groups/enjoyfonts)
 
 ## Contact
