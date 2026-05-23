@@ -290,6 +290,24 @@ ul {
   flex-wrap: wrap;
 }
 
+.hero__links {
+  margin-top: 1rem;
+  max-width: 42rem;
+  color: var(--muted);
+}
+
+.hero__links a {
+  background: color-mix(in srgb, var(--surface) 72%, transparent);
+  color: var(--text);
+}
+
+.hero__links a:hover {
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
+  background: var(--surface);
+  color: var(--accent);
+  transform: translateY(-1px);
+}
+
 .button {
   box-shadow: 0 1px 0 rgba(23, 32, 28, 0.08);
 }

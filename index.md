@@ -15,8 +15,25 @@ image: "/assets/img/profile/profile-og.jpg"
       <p class="hero__summary">{{ site.data.profile.hero_summary }}</p>
       <div class="hero__actions" aria-label="Primary links">
         <a class="button button--primary" href="{{ '/publications/' | relative_url }}">Publications</a>
-        <a class="button" href="{{ '/assets/docs/ishengfang_cv.pdf' | relative_url }}">CV PDF</a>
       </div>
+      <ul class="hero__links social-links" aria-label="Hero profile links">
+        {% for link in site.data.links.primary %}
+          {% unless link.kind == "email" %}
+            <li>
+              <a href="{% if link.href contains '://' or link.href contains 'mailto:' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" {% if link.href contains '://' %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                {{ link.label }}
+              </a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+        {% for link in site.data.links.profiles %}
+          <li>
+            <a href="{% if link.href contains '://' or link.href contains 'mailto:' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" {% if link.href contains '://' %}target="_blank" rel="noopener noreferrer"{% endif %}>
+              {{ link.label }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
     </div>
     <figure class="hero__portrait">
       <img src="{{ '/assets/img/profile/profile.jpg' | relative_url }}" alt="Portrait of I-Sheng Fang" width="900" height="1200">
