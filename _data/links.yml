@@ -26,10 +26,13 @@ emails:
   - label: "CITI, Academia Sinica"
     href: "mailto:ishengfang@citi.sinica.edu.tw"
     value: "ishengfang@citi.sinica.edu.tw"
+    button_label: "Mail(CITI)"
     primary: true
   - label: "Academia Sinica"
     href: "mailto:ishengfang@as.edu.tw"
     value: "ishengfang@as.edu.tw"
+    button_label: "Mail(Academia Sinica)"
   - label: "Personal"
     href: "mailto:nf0126@gmail.com"
     value: "nf0126@gmail.com"
+    button_label: "Mail(Personal)"
