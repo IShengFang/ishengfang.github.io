@@ -13,16 +13,6 @@ image: "/assets/img/profile/profile-og.jpg"
       <p class="hero__names">Ethan Fang / 方 宜晟 / Gî-Tshiânn Png</p>
       <p class="hero__pronunciation">{{ site.data.profile.pronunciation }}</p>
       <p class="hero__summary">{{ site.data.profile.hero_summary }}</p>
-      <ul class="hero__emails" aria-label="Email addresses">
-        {% for email in site.data.links.emails %}
-          <li>
-            <a href="{{ email.href }}">
-              <span>{{ email.label }}</span>
-              <strong>{{ email.value }}</strong>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
       <ul class="hero__links social-links" aria-label="Hero profile links">
         {% for link in site.data.links.primary %}
           {% unless link.kind == "email" %}
@@ -37,6 +27,16 @@ image: "/assets/img/profile/profile-og.jpg"
           <li>
             <a href="{% if link.href contains '://' or link.href contains 'mailto:' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" {% if link.href contains '://' %}target="_blank" rel="noopener noreferrer"{% endif %}>
               {{ link.label }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+      <ul class="hero__emails" aria-label="Email addresses">
+        {% for email in site.data.links.emails %}
+          <li>
+            <a href="{{ email.href }}">
+              <span>{{ email.label }}</span>
+              <strong>{{ email.value }}</strong>
             </a>
           </li>
         {% endfor %}

@@ -287,7 +287,7 @@ ul {
   display: grid;
   gap: 0.55rem;
   max-width: 40rem;
-  margin-top: 2rem;
+  margin-top: 1rem;
   list-style: none;
 }
 
@@ -324,7 +324,7 @@ ul {
 }
 
 .hero__links {
-  margin-top: 1rem;
+  margin-top: 2rem;
   max-width: 42rem;
   color: var(--muted);
 }
