@@ -34,9 +34,8 @@ image: "/assets/img/profile/profile-og.jpg"
       <ul class="hero__emails" aria-label="Email addresses">
         {% for email in site.data.links.emails %}
           <li>
-            <a href="{{ email.href }}">
-              <span>{{ email.label }}</span>
-              <strong>{{ email.value }}</strong>
+            <a class="button" href="{{ email.href }}" aria-label="Email {{ email.label }} at {{ email.value }}">
+              {{ email.value }}
             </a>
           </li>
         {% endfor %}

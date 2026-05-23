@@ -284,43 +284,15 @@ ul {
 }
 
 .hero__emails {
-  display: grid;
-  gap: 0.55rem;
-  max-width: 40rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
   margin-top: 1rem;
   list-style: none;
 }
 
-.hero__emails a {
-  display: grid;
-  grid-template-columns: minmax(130px, 0.34fr) minmax(0, 1fr);
-  gap: 0.8rem;
-  align-items: center;
-  min-height: 48px;
-  padding: 0.62rem 0.78rem;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: color-mix(in srgb, var(--surface) 78%, transparent);
-  color: var(--text);
-  text-decoration: none;
-}
-
-.hero__emails a:hover {
-  border-color: color-mix(in srgb, var(--accent) 45%, var(--line));
-  background: var(--surface);
-  transform: translateY(-1px);
-}
-
-.hero__emails span {
-  color: var(--muted);
-  font-size: 0.84rem;
-  font-weight: 700;
-}
-
-.hero__emails strong {
-  color: var(--accent-strong);
+.hero__emails .button {
   overflow-wrap: anywhere;
-  font-weight: 700;
 }
 
 .hero__links {
@@ -1169,9 +1141,8 @@ ul {
     font-size: 1rem;
   }
 
-  .hero__emails a {
-    grid-template-columns: 1fr;
-    gap: 0.2rem;
+  .hero__emails .button {
+    width: 100%;
   }
 
   .section {
