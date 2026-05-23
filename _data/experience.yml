@@ -1,0 +1,68 @@
+- title: "Research Assistant"
+  featured: true
+  organization: "Research Center for Information Technology Innovation (CITI), Academia Sinica"
+  location: "Taiwan"
+  date: "March 2024 - Present"
+  summary: 'Working on generative models with <a href="https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html" target="_blank" rel="noopener noreferrer">Dr. Jun-Cheng Chen</a>.'
+  links:
+    - label: "Advisor"
+      href: "https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html"
+
+- title: "Software Engineer Intern"
+  featured: true
+  organization: "Microsoft AI R&D Center"
+  location: "Taiwan"
+  date: "March 2022 - November 2022"
+  summary: "Worked on vision transformers, perceptual loss, and generative models with SunDa Yang, Chien-Yi Wang, Prof. Shang-Hong Lai, Dr. Trista Chen, and the face science team."
+
+- title: "Research Assistant"
+  featured: true
+  organization: "Enriched Vision Applications Lab, National Chiao Tung University"
+  location: "Taiwan"
+  date: "September 2018 - September 2019"
+  summary: 'Worked on style transfer and generative models with <a href="https://walonchiu.github.io/" target="_blank" rel="noopener noreferrer">Prof. Wei-Chen (Walon) Chiu</a>.'
+  links:
+    - label: "Advisor"
+      href: "https://walonchiu.github.io/"
+
+- title: "Teaching Assistant"
+  featured: false
+  organization: "The First Step of AI and Deep Learning with Python, National Chengchi University MOOCs"
+  location: "Taiwan"
+  date: "July 2018 - September 2018"
+  summary: "Teaching assistant for Prof. Yen-lung Tsai."
+
+- title: "Fire Fighting Substitute Military Service"
+  featured: false
+  organization: "YungPing Branch, Yonghe Squadron, Seventh Corps, Fire Department, New Taipei City Government"
+  location: "Taiwan"
+  date: "March 2018 - June 2018"
+  summary: "Completed substitute military service."
+
+- title: "Deep Learning Scientist"
+  featured: false
+  organization: "InQtech Co., Ltd."
+  location: "Taiwan"
+  date: "September 2017 - June 2018"
+  summary: "Worked on applied deep learning research and development."
+
+- title: "Teaching Assistant"
+  featured: false
+  organization: "The First Step of Data Analysis with Python, National Chengchi University MOOCs"
+  location: "Taiwan"
+  date: "September 2017 - January 2018"
+  summary: "Teaching assistant for Prof. Yen-lung Tsai."
+
+- title: "Intern"
+  featured: false
+  organization: "Leopard Mobile"
+  location: "Taiwan"
+  date: "July 2017 - September 2017"
+  summary: "Internship in software and machine learning engineering."
+
+- title: "GAN Discussion Host"
+  featured: false
+  organization: "NCCU Deep Learning & TWSIAM Student Group"
+  location: "Taiwan"
+  date: "2017"
+  summary: "Hosted GAN discussions and won first place in the NCCU study group final presentation."

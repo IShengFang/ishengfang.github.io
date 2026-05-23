@@ -1,0 +1,135 @@
+- id: "taiwan-cultural-association"
+  title: "A Century of Heartfelt Sentiment: 100th Anniversary Special Exhibition of the Taiwan Cultural Association"
+  category: "Creative AI"
+  date: "May 8, 2021 - May 8, 2022"
+  location: "Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan"
+  role: "Deepfake video synthesis"
+  featured: true
+  description: "Synthesized DeepFake video for historical figures of the Taiwan Cultural Association as part of a museum exhibition."
+  tags:
+    - "Exhibition"
+    - "Generative AI"
+    - "Digital humanities"
+  media:
+    type: "image_iframe"
+    image:
+      src: "https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/images/large/5c43f945-6d3b-44b3-a726-409c45003235.jpg"
+      alt: "Exhibition installation for the Taiwan Cultural Association special exhibition."
+    iframe:
+      src: "https://www.facebook.com/plugins/video.php?height=498&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&width=280&autoplay=true&t=0"
+      title: "Taiwan Cultural Association exhibition video"
+      width: 405
+      height: 720
+      display_width: 280
+  links:
+    - label: "Exhibition Page EN"
+      href: "https://www.nmtl.gov.tw/en/News_Content_Due.aspx?n=3915&s=139324"
+    - label: "Exhibition Page ZH"
+      href: "https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw"
+    - label: "Fanpage Post"
+      href: "https://www.facebook.com/tw.bankofculture/posts/4759014084138383"
+
+- id: "typography-research-collection"
+  title: "Typography Research Collection"
+  category: "Research Collection"
+  date: "Ongoing"
+  role: "Curator"
+  featured: true
+  description: "A research collection at the intersection of typography, computer graphics, computer vision, and machine learning."
+  tags:
+    - "Typography"
+    - "Computer graphics"
+    - "Machine learning"
+  links:
+    - label: "GitHub"
+      href: "https://github.com/IShengFang/TypographyResearchCollection"
+
+- id: "awesome-generative-ai-for-photography"
+  title: "Awesome Generative AI for Photography"
+  category: "Research Collection"
+  date: "Ongoing"
+  role: "Curator"
+  featured: true
+  description: "A curated list of research that integrates photographic principles, concepts, techniques, and domain knowledge into image and video generative models."
+  tags:
+    - "Photography"
+    - "Generative AI"
+    - "Survey"
+  links:
+    - label: "GitHub"
+      href: "https://github.com/IShengFang/Awesome-Generate-AI-for-Photography"
+
+- id: "font-design-progressive-invariant-gans"
+  title: "Font Design with Progressive Invariant GANs"
+  category: "Research Project"
+  date: "2017"
+  role: "Researcher"
+  featured: false
+  description: "Introduced GLCM as an invariant in progressive growing VAE-GANs to embed fonts in latent space, modify glyphs, and improve training speed, convergence, and resolution."
+  tags:
+    - "Font design"
+    - "GANs"
+    - "Typography"
+  awards:
+    - "Honorable Mention, MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017"
+
+- id: "hanzi-typeface-cgan"
+  title: "Hanzi Typeface Research with Conditional Generative Adversarial Networks"
+  category: "Research Project"
+  date: "2017"
+  role: "Researcher"
+  featured: false
+  description: "Used autoencoders and conditional GANs to embed fonts in latent space for Hanzi typeface exploration."
+  tags:
+    - "Hanzi"
+    - "Conditional GAN"
+    - "Typography"
+  awards:
+    - "Poster, Taiwan Society for Industrial and Applied Mathematics Annual Meeting, 2017"
+  collaborators:
+    - "Advisor: Prof. Yen-Lung Tsai"
+
+- id: "relativistic-average-gan-keras"
+  title: "Relativistic Average GAN with Keras"
+  category: "Open Source"
+  date: "2018"
+  role: "Maintainer"
+  featured: false
+  description: "A Keras implementation of relativistic average GANs."
+  tags:
+    - "GAN"
+    - "Keras"
+    - "Open source"
+  links:
+    - label: "GitHub"
+      href: "https://github.com/IShengFang/Relativistic-average-GAN-Keras"
+
+- id: "spectral-normalization-keras"
+  title: "Spectral Normalization for Keras"
+  category: "Open Source"
+  date: "2018"
+  role: "Maintainer"
+  featured: false
+  description: "A Keras implementation of spectral normalization layers."
+  tags:
+    - "Deep learning"
+    - "Keras"
+    - "Open source"
+  links:
+    - label: "GitHub"
+      href: "https://github.com/IShengFang/SpectralNormalizationKeras"
+
+- id: "resnet-densenet-notebook"
+  title: "ResNet-DenseNet-Notebook"
+  category: "Open Source"
+  date: "2018"
+  role: "Maintainer"
+  featured: false
+  description: "Notebook examples for ResNet and DenseNet experiments."
+  tags:
+    - "Computer vision"
+    - "Notebook"
+    - "Open source"
+  links:
+    - label: "GitHub"
+      href: "https://github.com/IShengFang/ResNet-DenseNet-Notebook"

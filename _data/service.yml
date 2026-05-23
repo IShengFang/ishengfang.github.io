@@ -1,0 +1,20 @@
+- type: "Reviewer"
+  title: "Conference Reviewing"
+  date: "2024 - 2026"
+  summary: "NeurIPS 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, WACV 2026, ICRA 2026, CVPR 2026, ICML 2026, ECCV 2026, NeurIPS 2026."
+
+- type: "Organizer"
+  title: "Workshop on Generative AI for Photography, WACV 2026"
+  date: "2026"
+  summary: "Primary and contact organizer."
+  links:
+    - label: "Workshop"
+      href: "https://gaipw.github.io/wacv26/index.html"
+
+- type: "Administrator"
+  title: "Enjoyfonts"
+  date: "Ongoing"
+  summary: "Administrator for a typography-focused Facebook group."
+  links:
+    - label: "Group"
+      href: "https://www.facebook.com/groups/enjoyfonts"

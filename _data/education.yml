@@ -1,0 +1,22 @@
+- degree: "Master of Science"
+  program: "The Master's Degree Program in Robotics"
+  institution: "National Yang Ming Chiao Tung University"
+  location: "Taiwan"
+  date: "September 2020 - February 2023"
+  details:
+    - "National Yang Ming Chiao Tung University was formed by the merger of National Chiao Tung University and National Yang Ming University on February 1, 2021."
+    - 'Advised by <a href="https://www.cs.nycu.edu.tw/members/detail/yschen" target="_blank" rel="noopener noreferrer">Prof. Yong-Sheng Chen</a> and <a href="https://walonchiu.github.io/" target="_blank" rel="noopener noreferrer">Prof. Wei-Chen (Walon) Chiu</a>.'
+
+- degree: "Graduate Student"
+  program: "Computer Science"
+  institution: "National Chengchi University"
+  location: "Taiwan"
+  date: "January 2020 - June 2020"
+  details:
+    - 'Worked with <a href="http://www.cs.nccu.edu.tw/~ytpeng/" target="_blank" rel="noopener noreferrer">Prof. Yan-Tsung Peng</a>.'
+
+- degree: "Bachelor of Science"
+  program: "Mathematical Science"
+  institution: "National Chengchi University"
+  location: "Taiwan"
+  date: "September 2013 - January 2018"

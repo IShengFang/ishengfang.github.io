@@ -1,0 +1,24 @@
+display_name: "I-Sheng Fang"
+also_known_as:
+  - "Ethan Fang"
+  - "方 宜晟"
+  - "Gî-Tshiânn Png"
+pronunciation: '"I-Sheng" is pronounced like "Ethan".'
+role: "Research Assistant, CITI, Academia Sinica"
+advisor:
+  name: "Dr. Jun-Cheng Chen"
+  url: "https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html"
+hero_summary: "Computer vision and generative AI researcher working across photography, depth estimation, style transfer, typography, and creative applications of AI."
+short_bio:
+  - 'I am a Research Assistant in CITI at Academia Sinica, working with <a href="https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html" target="_blank" rel="noopener noreferrer">Dr. Jun-Cheng Chen</a> on generative models and computer vision. I received my Master&apos;s degree in Robotics from National Yang Ming Chiao Tung University in January 2023, advised by <a href="https://www.cs.nycu.edu.tw/members/detail/yschen" target="_blank" rel="noopener noreferrer">Prof. Yong-Sheng Chen</a> and <a href="https://walonchiu.github.io/" target="_blank" rel="noopener noreferrer">Prof. Wei-Chen (Walon) Chiu</a>. Before that, I studied computer science at National Chengchi University with <a href="http://www.cs.nccu.edu.tw/~ytpeng/" target="_blank" rel="noopener noreferrer">Prof. Yan-Tsung Peng</a>, worked as a research assistant at the Enriched Vision Applications Lab at National Chiao Tung University, and received my Bachelor&apos;s degree in Mathematical Science from National Chengchi University in January 2018.'
+interests:
+  - "Generative AI"
+  - "Computer vision"
+  - "AI for photography"
+  - "Creative applications of AI"
+personal_interests:
+  - "Typography"
+  - "Film photography"
+  - "Fantasy baseball"
+  - "Strength and conditioning training"
+  - "Aviation"

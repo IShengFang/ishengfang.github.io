@@ -1,237 +1,201 @@
-# I-Sheng Fang / Ethan Fang / 方 宜晟 / Gî-Tshiânn Png
-("I-Sheng" pronounce like "Ethan")
+---
+layout: default
+body_class: "home"
+description: "I-Sheng Fang is a computer vision and generative AI researcher working on photography, depth estimation, style transfer, typography, and creative AI applications."
+image: "/assets/img/profile/profile-og.jpg"
+---
 
-I am a Research Assistant in CITI at Academia Sinica, working with [Dr. Jun-Cheng Chen](https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html). Before that, I received my Master degree in Robotics from National Yang Ming Chiao Tung University (the merger of National Chiao Tung University and National Yang Ming University) in January, 2023. My advisors are  [Prof. Yong-Sheng Chen](https://www.cs.nycu.edu.tw/members/detail/yschen) and  [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I was a graduate student of Department of Computer Science at National Cheng Chi University, Taiwan, working with [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/). I was a research assistants at Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, working with [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/). I received my Bachelor degree in Mathematical Science from National Chengchi University in January, 2018.
-
-My research interests are in the area of generative model, self/weakly-supervised learning, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design, deepfake for education. I believe AI is a leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
-
-My personal interests are ✍️ Typography,  📷 🎞️ Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), ⚾️ Baseball, 🏋️ Strength and Conditioning Training, and ✈️ Aviation.
-
-
-## Selected Publications / Presentations
-For a complete list of publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=zLeqqSwAAAAJ) page.
-
-
-### Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters
-![](https://textslider.github.io/static/images/teaser.jpg)
-- Pin-Yen Chiu, **I-Sheng Fang**, Jun-Cheng Chen
-- IEEE Winter Conference on Applications of Computer Vision (WACV), 2026.
-- [[paper]](http://arxiv.org/pdf/2509.18831) [[project page]](https://textslider.github.io/) [[code]](https://github.com/aiiu-lab/TextSlider) 
-
-### Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation 
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 16px;
-">
-  <video autoplay controls muted loop playsinline width="100%">
-    <source src="https://shigon255.github.io/4DGRT-project-page/static/videos/realworld/rs_h264.mp4"
-            type="video/mp4">
-  </video>
-</div>
-- Yi-Ruei Liu†, You-Zhe Xie†, Yu-Hsiang Hsu†, **I-Sheng Fang**‡, Yu-Lun Liu, Jun-Cheng Chen. († Equal contribution. Work done at Academia Sinica as intern. ‡ Internship mentor) 
-- [NeurIPS 2025 SpaVLE workshop](https://space-in-vision-language-embodied-ai.github.io/) Oral
-- [[project page]](https://shigon255.github.io/4DGRT-project-page/) [[paper]](https://arxiv.org/abs/2509.10759) 
-
-
-### Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models
-
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 16px;
-">
-  <video autoplay controls muted loop playsinline width="100%">
-    <source src="./cat_cherry_blossom_trees_seed87.mp4"
-            type="video/mp4">
-  </video>
-</div>
-
-- **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
-- SIGGRAPH Asia 2024 (Conference Track).
-- [[paper]](https://dl.acm.org/doi/10.1145/3680528.3687635) [[project page]](https://camera-settings-as-tokens.github.io/) [[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [[dataset]](https://github.com/aiiu-lab/CameraSettings20K) [[code]](https://github.com/aiiu-lab/Camera-Settings-as-Tokens) [[model]](https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2)
-
-### Best of Both Sides: Integration of Absolute and Relative Depth Sensing Modalities Based on iToF and RGB Cameras
-![](./iToF-RGB_teaser.gif)
-- **I-Sheng Fang**, Wei-Chen Chiu, Yong-Sheng Chen
-- International Conference on Pattern Recognition (ICPR), 2024.
-- [[Springer]](http://dx.doi.org/10.1007/978-3-031-78444-6_30) [[paper]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf) [[supplementary materials]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr_supp.pdf) [[github]](https://github.com/IShengFang/Best-of-Both-Sides_iToF-RGB-Integration)
-
-### ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network
-![](https://github.com/IShengFang/ES3Net/raw/main/figures/teaser_drone.gif)
-- **I-Sheng Fang**, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023.
-  - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/2024/01/03/2023/)
-    - **Best Paper Award**
-- [[github]](https://github.com/IShengFang/ES3Net)[[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
-
-### Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer
-
-![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
-- Hung-Yu Chen†, **I-Sheng Fang**†, Chia-Ming Cheng, Wei-Chen Chiu († indicates equal contribution.) 
-- IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
-- [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
-
-## Projects
-### A Century of Heartfelt Sentiment: 100th Anniversary Special Exhibition of the Taiwan Cultural Association
-
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-  margin: 0 auto;
-  margin-bottom: 16px;
-">
-
-  <div style="
-    flex: 0 0 72.7272%;
-    position: relative;
-    padding-bottom: 48.4848%;
-    overflow: hidden;
-  ">
-    <img
-      src="https://file.moc.gov.tw/001/Upload/OldFiles/AdminUploads/images/large/5c43f945-6d3b-44b3-a726-409c45003235.jpg"
-      alt="image"
-      style="
-        position: absolute;
-        top: 0; left: 0;
-        width: 100%; height: 100%;
-        object-fit: cover;
-      "
-    />
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container hero__grid">
+    <div class="hero__content">
+      <p class="eyebrow">{{ site.data.profile.role }}</p>
+      <h1 id="hero-title">I-Sheng Fang</h1>
+      <p class="hero__names">Ethan Fang / 方 宜晟 / Gî-Tshiânn Png</p>
+      <p class="hero__pronunciation">{{ site.data.profile.pronunciation }}</p>
+      <p class="hero__summary">{{ site.data.profile.hero_summary }}</p>
+      <div class="hero__actions" aria-label="Primary links">
+        <a class="button button--primary" href="{{ '/publications/' | relative_url }}">Publications</a>
+        <a class="button" href="{{ '/assets/docs/ishengfang_cv.pdf' | relative_url }}">CV PDF</a>
+      </div>
+    </div>
+    <figure class="hero__portrait">
+      <img src="{{ '/assets/img/profile/profile.jpg' | relative_url }}" alt="Portrait of I-Sheng Fang" width="900" height="1200">
+    </figure>
   </div>
+</section>
 
-  <div style="
-    flex: 0 0 27.2727%;
-    position: relative;
-    padding-bottom: 48.4848%;
-    overflow: hidden;
-  ">
 
-  <div style="
-    position: absolute;
-    top: 0; left: 0;
-    /* width: 100%; height: 100%; */
-    width: 160%; height: 160%;
-    transform: scale(0.625);
-    transform-origin: top left;
-    pointer-events: none;
-  ">
-
-  <iframe
-    src="https://www.facebook.com/plugins/video.php?&href=https%3A%2F%2Fwww.facebook.com%2Ftw.bankofculture%2Fvideos%2F972692466643347%2F&show_text=false&adapt_container_width=false&t=0"
-    style="
-      width: 100%; height: 100%;
-      border: none; overflow: hidden;
-      pointer-events: auto;
-    "
-    scrolling="no"
-    frameborder="0"
-    allowfullscreen="true"
-    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-  ></iframe>
-  
+<section class="section section--muted section--news" aria-labelledby="news">
+  <div class="container">
+    {% include section-heading.html id="news" kicker="News" title="Recent Updates" %}
+    <div class="news-list">
+      {% for item in site.data.news %}
+        <article class="news-item">
+          <time>{{ item.date }}</time>
+          <div>
+            <h3>{{ item.title }}</h3>
+            {% if item.links %}
+              <ul class="link-list">
+                {% for link in item.links %}
+                  <li><a href="{{ link.href }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+        </article>
+      {% endfor %}
+    </div>
   </div>
-    
+</section>
+
+<section class="section section--intro" aria-labelledby="about">
+  <div class="container intro-grid">
+    <div>
+      {% include section-heading.html id="about" kicker="About" title="Researcher working where vision models meet creative tools" %}
+      {% for paragraph in site.data.profile.short_bio %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
+    </div>
+    <aside class="profile-panel" aria-label="Research interests">
+      <h2>Research Interests</h2>
+      <ul class="tag-list tag-list--large">
+        {% for interest in site.data.profile.interests %}
+          <li>{{ interest }}</li>
+        {% endfor %}
+      </ul>
+    </aside>
   </div>
-</div>
+</section>
 
-- 2021/05/08 - 2022/05/08
-- Exhibition Room D, National Museum of Taiwan Literature, Tainan, Taiwan
-- Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
-- [[exhibition page(English)]](https://www.nmtl.gov.tw/en/News_Content_Due.aspx?n=3915&s=139324)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_85_246.html)[[press release (English)]](https://www.moc.gov.tw/en/information_197_127326.html)[[press release (Mandarin)]](https://www.moc.gov.tw/information_250_127289.html)[[fanpage post]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
+<section class="section" aria-labelledby="selected-publications">
+  <div class="container">
+    {% include section-heading.html id="selected-publications" kicker="Publications" title="Selected Publications" lede="Peer-reviewed and workshop work in generative modeling, camera-aware synthesis, depth sensing, stereo matching, and style transfer." %}
+    <div class="publication-toolbar" data-publication-switch>
+      <button class="filter-button is-active" type="button" data-publication-mode-button="selected">Selected</button>
+      <button class="filter-button" type="button" data-publication-mode-button="all">All Publications</button>
+    </div>
+    <div class="publication-list" data-publications data-publication-mode="selected">
+      {% for pub in site.data.publications %}
+        {% include publication-card.html publication=pub %}
+      {% endfor %}
+    </div>
+    <p class="section-link"><a href="{{ '/publications/' | relative_url }}">View complete publication list</a></p>
+  </div>
+</section>
 
+<section class="section section--muted" aria-labelledby="selected-projects">
+  <div class="container">
+    {% include section-heading.html id="selected-projects" kicker="Projects" title="Creative, Research, and Open Source Work" %}
+    <div class="project-list">
+      {% for project in site.data.projects %}
+        {% if project.featured %}
+          {% include project-card.html project=project media_mode="video" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <p class="section-link"><a href="{{ '/projects/' | relative_url }}">Browse all projects</a></p>
+  </div>
+</section>
 
-## Education
+<section class="section" aria-labelledby="experience">
+  <div class="container timeline-grid">
+    <div>
+      {% include section-heading.html id="experience" kicker="Experience" title="Experience Snapshot" %}
+      <div class="timeline-list">
+        {% assign featured_experience = site.data.experience | where: "featured", true %}
+        {% for item in featured_experience %}
+          <article class="timeline-item">
+            <p class="timeline-item__date">{{ item.date }}</p>
+            <h3>{{ item.title }}</h3>
+            <p class="timeline-item__org">{{ item.organization }}</p>
+            <p>{{ item.summary }}</p>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+    <div>
+      {% include section-heading.html id="service" kicker="Service" title="Reviewing and Organizing" %}
+      <div class="timeline-list">
+        {% for item in site.data.service %}
+          <article class="timeline-item">
+            <p class="timeline-item__date">{{ item.type }} / {{ item.date }}</p>
+            <h3>{{ item.title }}</h3>
+            <p>{{ item.summary }}</p>
+            {% if item.links %}
+              <ul class="link-list">
+                {% for link in item.links %}
+                  <li><a href="{{ link.href }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
 
-- Master of Science
-  - The Master's Degree Program in Robotics, National Yang Ming Chiao Tung University, Taiwan.
-    - Merged by National Chiao Tung University and National Yang Ming University on 1, February, 2021.
-  - September, 2020 - February, 2023
+<section class="section section--personal" aria-labelledby="personal">
+  <div class="container personal-grid">
+    <div class="personal-copy">
+      {% include section-heading.html id="personal" kicker="Personal" title="Outside the Lab" %}
+      <p>{{ site.data.photography.summary }}</p>
+      <ul class="tag-list tag-list--large interest-strip" aria-label="Personal interests">
+        {% for interest in site.data.interests %}
+          <li>{{ interest.short_title }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="instagram-preview" aria-label="Instagram photography preview">
+      <div class="instagram-preview__header">
+        <span>{{ site.data.photography.handle }}</span>
+        <a href="{{ site.data.photography.url }}" target="_blank" rel="noopener noreferrer">Instagram</a>
+      </div>
+      <div class="instagram-grid">
+        {% for photo in site.data.photography.photos %}
+          {% assign photo_href = photo.href | default: site.data.photography.url %}
+          <a class="instagram-photo" href="{{ photo_href }}" target="_blank" rel="noopener noreferrer" aria-label="Open Instagram post from {{ photo.posted | default: site.data.photography.handle }}">
+            <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy" width="150" height="150">
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
 
-- Graduate Student
-  - Computer Sciences, National Chengchi University.
-  - January, 2020 - June, 2020
-  
-- Bachelor of Science
-  - Mathematical Sciences, National Cheng Chi University, Taiwan.
-  - September, 2013 - January, 2018
-
-## Experience
-
-- Research Assistant
-  - Research Center for Information Technology Innovation(CITI), Academia Sinica, Taiwan.
-  - March, 2024 - 
-  - Working on generative model with [Dr. Jun-Cheng Chen](https://www.citi.sinica.edu.tw/pages/pullpull/index_en.html).
-- Software Engineer Intern
-  - Microsoft AI R&D Center, Taiwan
-  - March, 2022 - November, 2022
-  - Working on vision transformer(ViT), percpetual loss, and generative model with SunDa Yang, [Chien-Yi Wang](https://chienyiwang.github.io/), [Prof. Shang-Hong Lai](https://www.cs.nthu.edu.tw/~lai/), and [Dr. Trista Chen](https://www.linkedin.com/in/tristachen), and the face science team. 
-- Research Assistant
-  - Enriched Vision Applications Lab, National Chiao Tung University, Taiwan.
-  - September, 2018 - September, 2019
-  - Working on style transfer and generative model with [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/)
-- Teaching Assistant
-  - The First Step of AI and Deep Learning with Python, the MOOCs of National Chengchi University.
-  - July, 2018 - September, 2018
-  - Teacher is Prof. Yen-lung Tsai.
-- Fire Fighting Substitute Military Services
-  - YungPing Branch, Yonghe Squadron, Seventh Crops, Fire Department, New Taipei City Government
-  - March, 2018 - June, 2018
-- Deep Learning Scientist
-  - InQtech Co.,Ltd
-  - September, 2017 - June, 201
-- Teaching Assistant
-  - The First Step of Data Analysis with Python, the MOOCs of National Chengchi University.
-  - September, 2017 - January, 2018
-  - Teacher is Prof. Yen-lung Tsai.
-- Intern
-  - Leopard Mobile
-  - July, 2017 - September, 2017
-- GAN Discussion Host
-  - NCCU Deep Learning & TWSIAM Student Group
-  - Winning  *first* place of study group final presentation in NCCU. 
-
-## Open Source Projects
-
-- [Relativistic average GAN with Keras](https://github.com/IShengFang/Relativistic-average-GAN-Keras), 2018
-- [Spectral Normalization for Keras](https://github.com/IShengFang/SpectralNormalizationKeras), 2018
-- [ResNet-DenseNet-Notebook](https://github.com/IShengFang/ResNet-DenseNet-Notebook), 2018
-
-## Reseach Collections
-- [Typography Research Collection](https://github.com/IShengFang/TypographyResearchCollection)
-  - Typography is the cross between technology and liberal arts. This page is a research collection that includes computer graphics, computer vision, machine learning that related to typography.
-  - If anyone found new research, please email it to me :)
-- [Awesome Generate AI for Photography](https://github.com/IShengFang/Awesome-Generate-AI-for-Photography)
-  - With the rapid development of generative AI, photography—one of the most influential and widespread art forms—has undergone significant transformations, uniquely positioned as a medium that bridges technology and humanity to both shape and be shaped by recent generative models. In this awesome list, we collected research works that integrate photographic principles, concepts, techniques, and domain knowledge into generative models, including those for image and video synthesis.
-  - If anyone found new research, please email it to me :)
-
-## Other Research Projects
-- Font Design with Progressive invariant GANs
-  - *Honorable Mention* of MOST Workshop on Generative Adversarial Networks and GAN Project Competition, 2017.
-  - Introduced GLCM, a invariant, in progressive growing VAE-GAN to embed font in latent space. Generated new font or glyph by modtified the latent space Improved training speed, convergence speed and higher resolution.
-- Hanzi Typeface Research with Conditional Generative Adversarial Network
-  - Poster of Taiwan Society for Industrial and Applied Mathematics Annual Meeting, 2017
-  - Using autoencoder and conditional GAN to embed font in latent space.
-  - Advisor: Prof. Yen-Lung Tsai.
-  
-## Github Stats
-![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true) 
-[![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-## Service
-- Reviewer: NeurIPS 2024, CVPR 2025, ICCV 2025, NeurIPS 2025, WACV 2026, ICRA 2026, CVPR 2026, ECCV 2026
-- Organizer: 	[Workshop on Generative AI for Photography, WACV 2026](https://gaipw.github.io/wacv26/index.html) (Primary and Contact Organizer) 
-- Administrator: [Enjoyfonts (a facebook group for typography)](https://www.facebook.com/groups/enjoyfonts)
-
-## Contact
-
-email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)  
-email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)  
-email(NYCU): [isfang.en09@nycu.edu.tw](mailto:isfang.en09@nycu.edu.tw)  
-email(CITI, Academia Sinica): [ishengfang@citi.sinica.edu.tw](mailto:ishengfang@citi.sinica.edu.tw)  
-email(Academia Sinica): [ishengfang@as.edu.tw](mailto:ishengfang@as.edu.tw)  
+<section class="section section--contact" id="contact" aria-labelledby="contact-heading">
+  <div class="container contact-grid">
+    <div class="contact-copy">
+      <p class="eyebrow">Contact</p>
+    <h2 id="contact-heading">Open to research conversations, collaboration, and consulting.</h2>
+    </div>
+    <div>
+      <ul class="contact-email-list" aria-label="Email addresses">
+        {% for email in site.data.links.emails %}
+          <li>
+            <a class="contact-email-button" href="{{ email.href }}">
+              <span>{{ email.label }}</span>
+              <strong>{{ email.value }}</strong>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+      <ul class="social-links" aria-label="Primary profile links">
+        {% for link in site.data.links.primary %}
+          {% unless link.kind == "email" %}
+            <li>
+              <a href="{{ link.href }}" {% unless link.href contains 'mailto:' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+                {{ link.label }}
+              </a>
+            </li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+      <ul class="social-links social-links--secondary">
+        {% for link in site.data.links.profiles %}
+          <li><a href="{{ link.href }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>

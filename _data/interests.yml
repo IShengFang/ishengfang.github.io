@@ -1,0 +1,19 @@
+- id: "film-photography"
+  title: "Film Photography"
+  short_title: "📷 Film photography"
+
+- id: "typography"
+  title: "Typography"
+  short_title: "🔤 Typography"
+
+- id: "baseball"
+  title: "Fantasy Baseball"
+  short_title: "⚾ Fantasy baseball"
+
+- id: "strength-conditioning"
+  title: "Strength and Conditioning Training"
+  short_title: "🏋️ Strength training"
+
+- id: "aviation"
+  title: "Aviation"
+  short_title: "✈️ Aviation"

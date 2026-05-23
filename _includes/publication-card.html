@@ -1,0 +1,49 @@
+{% assign pub = include.publication %}
+<article class="publication-card{% if include.compact %} publication-card--compact{% endif %}{% unless pub.media %} publication-card--no-media{% endunless %}" id="{{ pub.id }}" data-featured="{% if pub.featured %}true{% else %}false{% endif %}">
+  {% if pub.media %}
+    {% assign media_src = pub.media.src %}
+    {% if media_src contains "://" %}
+      {% assign rendered_media_src = media_src %}
+    {% else %}
+      {% assign rendered_media_src = media_src | relative_url %}
+    {% endif %}
+    <div class="publication-card__media"{% if pub.media.width and pub.media.height %} style="--media-aspect: {{ pub.media.width }} / {{ pub.media.height }};"{% endif %}>
+      {% if pub.media.type == "video" %}
+        <video controls autoplay muted loop playsinline preload="auto" aria-label="{{ pub.media.alt }}"{% if pub.media.width %} width="{{ pub.media.width }}"{% endif %}{% if pub.media.height %} height="{{ pub.media.height }}"{% endif %}{% if pub.media.poster %} poster="{{ pub.media.poster | relative_url }}"{% endif %}>
+          <source src="{{ rendered_media_src }}" type="video/mp4">
+        </video>
+      {% elsif pub.media.type == "image" %}
+        <img src="{{ rendered_media_src }}" alt="{{ pub.media.alt }}" loading="lazy" width="{{ pub.media.width }}" height="{{ pub.media.height }}">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="publication-card__body">
+    <div class="publication-card__meta">
+      <span>{{ pub.year }}</span>
+      <span>{{ pub.venue }}</span>
+    </div>
+    <h3>{{ pub.title }}</h3>
+    <p class="publication-card__authors">{{ pub.authors }}</p>
+    {% if pub.author_note %}
+      <p class="publication-card__note">{{ pub.author_note }}</p>
+    {% endif %}
+    {% if pub.description %}
+      <p>{{ pub.description }}</p>
+    {% endif %}
+    {% if pub.labels %}
+      <ul class="tag-list" aria-label="Publication labels">
+        {% for label in pub.labels %}
+          <li>{{ label }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if pub.links %}
+      <ul class="link-list" aria-label="Publication links">
+        {% for link in pub.links %}
+          <li><a href="{{ link.href }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,267 @@
+- id: "adapt2hide"
+  title: "Adapt2Hide: Leveraging Off-the-Shelf Autoencoder for Reversible Visual Processing"
+  authors: "Ernie Chu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tai-Ming Huang, Pin-Yen Chiu, Vishal Patel, Jun-Cheng Chen"
+  author_note: "<sup>*</sup> Equal contribution."
+  venue: "IEEE International Conference on Image Processing (ICIP)"
+  year: 2026
+  labels:
+    - "ICIP 2026"
+    - "Reversible visual processing"
+    - "Image steganography"
+  featured: true
+  description: "An image steganography approach using large pre-trained autoencoders and LoRA to support high-quality message reconstruction with minimal additional parameters for reversible visual processing applications."
+  media:
+    type: "image"
+    src: "/assets/img/publications/Adapt2Hide.jpg"
+    alt: "Adapt2Hide teaser showing reversible visual processing with an off-the-shelf autoencoder."
+    width: 3859
+    height: 1851
+
+- id: "gen-n-val"
+  title: "Gen-n-Val: Agentic Image Data Generation and Validation"
+  authors: "Jing-En Huang<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tzuhsuan Huang<sup>*</sup>, Chih-Yu Wang, Jun-Cheng Chen"
+  author_note: "<sup>*</sup> Equal contribution."
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings Track (CVPRF)"
+  year: 2026
+  labels:
+    - "CVPRF 2026"
+    - "Agentic data generation"
+  featured: true
+  description: "An agentic framework for image data generation and validation using Layer Diffusion, LLM prompt agents, and VLLM validation agents to improve object detection and segmentation training data."
+  media:
+    type: "image"
+    src: "/assets/img/publications/Gen-n-Val.png"
+    alt: "Gen-n-Val teaser showing agentic image data generation and validation workflow."
+    width: 2124
+    height: 686
+  links:
+    - label: "Paper"
+      href: "https://arxiv.org/abs/2506.04676"
+
+- id: "text-slider"
+  title: "Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters"
+  authors: "Pin-Yen Chiu, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2026
+  labels:
+    - "WACV 2026"
+    - "CVPRW VisCon 2025"
+    - "Image and video synthesis"
+  featured: true
+  description: "A lightweight and efficient method for continuous concept control in diffusion models by fine-tuning low-rank directions in the text encoder."
+  media:
+    type: "image"
+    src: "https://textslider.github.io/static/images/teaser.jpg"
+    alt: "Text Slider teaser showing continuous visual concept control."
+    width: 1600
+    height: 900
+  links:
+    - label: "Paper"
+      href: "https://www.arxiv.org/abs/2509.18831"
+    - label: "VisCon"
+      href: "https://openreview.net/forum?id=kPzhD0VVsE"
+    - label: "Project"
+      href: "https://textslider.github.io/"
+    - label: "Code"
+      href: "https://github.com/aiiu-lab/TextSlider"
+
+- id: "4d-grt"
+  title: "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation"
+  authors: "Yi-Ruei Liu<sup>*</sup>, You-Zhe Xie<sup>*</sup>, Yu-Hsiang Hsu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>&dagger;</sup>, Yu-Lun Liu, Jun-Cheng Chen"
+  author_note: "<sup>*</sup> Equal contribution. Work done at Academia Sinica as interns. <sup>&dagger;</sup> Internship mentor."
+  venue: "NeurIPS 2025 Workshop on SPACE in Vision, Language, and Embodied AI (SpaVLE)"
+  year: 2025
+  labels:
+    - "Oral"
+    - "Physics-based data generation"
+  featured: true
+  description: "A two-stage pipeline combining 4D Gaussian Splatting with physically based ray tracing to simulate real-world camera effects such as fisheye distortion, rolling shutter, and depth of field."
+  media:
+    type: "video"
+    src: "https://shigon255.github.io/4DGRT-project-page/static/videos/realworld/rs_h264.mp4"
+    alt: "4D Gaussian ray tracing video preview for camera effects."
+    width: 1360
+    height: 1024
+  links:
+    - label: "Paper"
+      href: "https://arxiv.org/abs/2509.10759"
+    - label: "Project"
+      href: "https://shigon255.github.io/4DGRT-project-page/"
+
+- id: "camerabench"
+  title: "CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography"
+  authors: "<strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "Multimodal Algorithmic Reasoning Workshop (MAR), IEEE/CVF CVPR Workshops"
+  year: 2025
+  labels:
+    - "CVPRW MAR 2025"
+    - "Photography reasoning"
+    - "MLLM benchmark"
+  featured: false
+  description: "A benchmark for photography-related visual reasoning tasks that test how multimodal large language models understand the effects of camera settings on image appearance."
+  links:
+    - label: "Paper"
+      href: "https://arxiv.org/abs/2504.10090"
+    - label: "MAR"
+      href: "https://marworkshop.github.io/cvpr25/index.html"
+
+- id: "camera-settings-as-tokens"
+  title: "Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models"
+  authors: "<strong>I-Sheng Fang</strong>, Yue-Hua Han, Jun-Cheng Chen"
+  venue: "SIGGRAPH Asia"
+  year: 2024
+  labels:
+    - "SIGGRAPH Asia"
+    - "Visual Generative Models"
+    - "Photography"
+  featured: true
+  description: "A latent diffusion approach that represents camera settings as controllable tokens for photographic image generation."
+  media:
+    type: "video"
+    src: "/assets/video/camera-settings-cat-cherry.mp4"
+    alt: "Generated camera-setting variation video with a cat under cherry blossoms."
+    width: 512
+    height: 512
+  links:
+    - label: "Paper"
+      href: "https://dl.acm.org/doi/10.1145/3680528.3687635"
+    - label: "Project"
+      href: "https://camera-settings-as-tokens.github.io/"
+    - label: "Demo"
+      href: "https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens"
+    - label: "Dataset"
+      href: "https://github.com/aiiu-lab/CameraSettings20K"
+    - label: "Code"
+      href: "https://github.com/aiiu-lab/Camera-Settings-as-Tokens"
+    - label: "Model"
+      href: "https://huggingface.co/ishengfang/Camera-Settings-as-Tokens-SD2"
+
+- id: "itof-rgb"
+  title: "Best of Both Sides: Integration of Absolute and Relative Depth Sensing Modalities Based on iToF and RGB Cameras"
+  authors: "<strong>I-Sheng Fang</strong>, Wei-Chen Chiu, Yong-Sheng Chen"
+  venue: "International Conference on Pattern Recognition (ICPR)"
+  year: 2024
+  labels:
+    - "Depth sensing"
+    - "iToF + RGB"
+    - "Multi-modal integration"
+  featured: true
+  description: "A depth-sensing integration method that combines active iToF sensing with passive RGB cues to estimate high-resolution metric depth without metric depth supervision."
+  media:
+    type: "image"
+    src: "/assets/img/publications/itof-rgb-teaser.gif"
+    alt: "iToF and RGB depth integration teaser animation."
+    width: 960
+    height: 540
+  links:
+    - label: "Paper"
+      href: "https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf"
+    - label: "Code"
+      href: "https://github.com/IShengFang/Best-of-Both-Sides_iToF-RGB-Integration"
+
+- id: "es3net"
+  title: "ES3Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network"
+  authors: "<strong>I-Sheng Fang</strong>, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)"
+  year: 2023
+  labels:
+    - "Best Paper Award"
+    - "Embedded Vision Workshop"
+  featured: true
+  description: "An efficient edge-based self-supervised stereo matching network for robust depth estimation on drones and embedded devices."
+  media:
+    type: "image"
+    src: "https://github.com/IShengFang/ES3Net/raw/main/figures/teaser_drone.gif"
+    alt: "ES3Net drone stereo matching teaser."
+    width: 1280
+    height: 720
+  links:
+    - label: "CVPRW"
+      href: "https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html"
+    - label: "Code"
+      href: "https://github.com/IShengFang/ES3Net"
+
+- id: "self-contained-stylization"
+  title: "Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer"
+  authors: "Hung-Yu Chen<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Chia-Ming Cheng, Wei-Chen Chiu"
+  author_note: "<sup>*</sup> Equal contribution."
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2020
+  labels:
+    - "Style transfer"
+    - "Steganography"
+  featured: true
+  description: "A two-stage model that integrates neural style transfer and deep steganography to support reverse and serial style transfer."
+  media:
+    type: "image"
+    src: "https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif"
+    alt: "Self-contained stylization result animation."
+    width: 1200
+    height: 675
+  links:
+    - label: "arXiv"
+      href: "https://arxiv.org/abs/1812.03910"
+    - label: "CVF"
+      href: "https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html"
+    - label: "Project"
+      href: "https://ishengfang.github.io/Self-Contained_Stylization/"
+    - label: "Code"
+      href: "https://github.com/IShengFang/Self-Contained_Stylization"
+
+- id: "imagenworld"
+  title: "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks"
+  authors: "Samin Mahdizadeh Sani<sup>*</sup>, Max Ku<sup>*</sup>, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Ting Wai Lam, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, <strong>I-Sheng Fang</strong>, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen"
+  author_note: "<sup>*</sup> Equal contribution."
+  venue: "International Conference on Learning Representations (ICLR)"
+  year: 2026
+  labels:
+    - "ICLR 2026"
+    - "Image generation evaluation"
+  featured: false
+  description: "A large-scale benchmark for evaluating modern image-generation models across open-ended real-world tasks with fine-grained human annotations."
+  links:
+    - label: "Project"
+      href: "https://tiger-ai-lab.github.io/ImagenWorld/"
+    - label: "Preprint"
+      href: "https://github.com/TIGER-AI-Lab/ImagenWorld/blob/gh-pages/static/preprint.pdf"
+    - label: "Dataset"
+      href: "https://huggingface.co/datasets/TIGER-Lab/ImagenWorld"
+    - label: "Code"
+      href: "https://github.com/TIGER-AI-Lab/ImagenWorld"
+    - label: "Visualization"
+      href: "https://huggingface.co/spaces/TIGER-Lab/ImagenWorld-Visualizer"
+    - label: "Comfy UI Blog"
+      href: "https://blog.comfy.org/p/introducing-imagenworld"
+
+- id: "kmops"
+  title: "KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images"
+  authors: "Ying-Kun Wu, Yi Shen, Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2026
+  labels:
+    - "WACV 2026"
+    - "Stereo vision"
+    - "Object pose"
+  featured: false
+  description: "A keypoint-driven method for estimating 6-DoF pose and metric size of multiple objects from a calibrated stereo image pair."
+  links:
+    - label: "Project"
+      href: "https://kmopss.github.io/"
+    - label: "Code"
+      href: "https://github.com/yingkunwu/kmops"
+
+- id: "sirr-knowledge-distillation"
+  title: "Single Image Reflection Removal Based on Knowledge-Distilling Content Disentanglement"
+  authors: "Yan-Tsung Peng, Kai-Han Cheng, <strong>I-Sheng Fang</strong>, Wen-Yi Peng, Jr-Shian Wu"
+  venue: "IEEE Signal Processing Letters"
+  year: 2022
+  labels:
+    - "Reflection removal"
+    - "Knowledge distillation"
+  featured: false
+  description: "A single-image reflection removal method that disentangles reflection and transmission features with knowledge distillation."
+  links:
+    - label: "IEEE Xplore"
+      href: "https://ieeexplore.ieee.org/document/9705543"
+    - label: "Code"
+      href: "https://github.com/ytpeng-aimlab/Image-Reflection-Removal-based-on-Knowledge-distilling-Content-Disentanglement"

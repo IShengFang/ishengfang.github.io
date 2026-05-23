@@ -1,0 +1,35 @@
+primary:
+  - label: "Email"
+    href: "mailto:ishengfang@citi.sinica.edu.tw"
+    kind: "email"
+  - label: "Google Scholar"
+    href: "https://scholar.google.com/citations?user=zLeqqSwAAAAJ"
+    kind: "scholar"
+  - label: "GitHub"
+    href: "https://github.com/IShengFang"
+    kind: "github"
+  - label: "CV"
+    href: "/assets/docs/ishengfang_cv.pdf"
+    kind: "cv"
+
+profiles:
+  - label: "X / Twitter"
+    href: "https://twitter.com/ishengfang"
+  - label: "Facebook"
+    href: "https://www.facebook.com/I.Sheng.Fang"
+  - label: "Instagram"
+    href: "https://www.instagram.com/ishengfang/"
+  - label: "LinkedIn"
+    href: "https://www.linkedin.com/in/i-sheng-fang-83293598/"
+
+emails:
+  - label: "CITI, Academia Sinica"
+    href: "mailto:ishengfang@citi.sinica.edu.tw"
+    value: "ishengfang@citi.sinica.edu.tw"
+    primary: true
+  - label: "Academia Sinica"
+    href: "mailto:ishengfang@as.edu.tw"
+    value: "ishengfang@as.edu.tw"
+  - label: "Personal"
+    href: "mailto:nf0126@gmail.com"
+    value: "nf0126@gmail.com"

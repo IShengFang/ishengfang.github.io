@@ -1,8 +1,38 @@
-title: I-Sheng Fang
-logo: ./logo.jpg
-# description: DeepLearning X Typography X Photography
-theme: jekyll-theme-minimal
+title: "I-Sheng Fang"
+name: "I-Sheng Fang"
+description: "I-Sheng Fang is a computer vision and generative AI researcher working on photography, depth estimation, style transfer, typography, and creative AI applications."
+url: "https://ishengfang.github.io"
+baseurl: ""
+lang: "en-US"
+timezone: "Asia/Taipei"
+
+email: "ishengfang@citi.sinica.edu.tw"
 google_analytics: "G-KGB67FZW0F"
-github:
-  is_user_page: true
-  is_project_page: false
+
+author:
+  name: "I-Sheng Fang"
+  given_name: "I-Sheng"
+  family_name: "Fang"
+  alternate_names:
+    - "Ethan Fang"
+    - "方 宜晟"
+    - "Gî-Tshiânn Png"
+  email: "ishengfang@citi.sinica.edu.tw"
+  url: "https://ishengfang.github.io/"
+
+logo: "/assets/img/profile/profile.jpg"
+og_image: "/assets/img/profile/profile-og.jpg"
+
+plugins:
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

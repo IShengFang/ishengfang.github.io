@@ -1,0 +1,9 @@
+<div class="section-heading">
+  {% if include.kicker %}
+    <p class="section-heading__kicker">{{ include.kicker }}</p>
+  {% endif %}
+  <h2 id="{{ include.id | default: include.title | slugify }}">{{ include.title }}</h2>
+  {% if include.lede %}
+    <p class="section-heading__lede">{{ include.lede }}</p>
+  {% endif %}
+</div>

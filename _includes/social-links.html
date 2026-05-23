@@ -1,0 +1,10 @@
+{% assign social_links = include.links | default: site.data.links.primary %}
+<ul class="social-links{% if include.compact %} social-links--compact{% endif %}">
+  {% for link in social_links %}
+    <li>
+      <a href="{{ link.href }}" {% unless link.href contains 'mailto:' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+        <span>{{ link.label }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
