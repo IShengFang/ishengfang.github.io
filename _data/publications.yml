@@ -67,28 +67,6 @@
       href: "https://huggingface.co/spaces/TIGER-Lab/ImagenWorld-Visualizer"
     - label: "Comfy UI Blog"
       href: "https://blog.comfy.org/p/introducing-imagenworld"
-
-- id: "kmops"
-  title: "KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images"
-  authors: "Ying-Kun Wu, Yi Shen, Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
-  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
-  year: 2026
-  labels:
-    - "WACV 2026"
-    - "Stereo vision"
-    - "Object pose"
-  featured: false
-  description: "A keypoint-driven method for estimating 6-DoF pose and metric size of multiple objects from a calibrated stereo image pair."
-  media:
-    type: "image"
-    src: "https://kmopss.github.io/figures/model_overview.png"
-    width: 949
-    height: 272
-  links:
-    - label: "Project"
-      href: "https://kmopss.github.io/"
-    - label: "Code"
-      href: "https://github.com/yingkunwu/kmops"
       
 - id: "text-slider"
   title: "Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters"
@@ -116,6 +94,28 @@
       href: "https://textslider.github.io/"
     - label: "Code"
       href: "https://github.com/aiiu-lab/TextSlider"
+
+- id: "kmops"
+  title: "KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images"
+  authors: "Ying-Kun Wu, Yi Shen, Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2026
+  labels:
+    - "WACV 2026"
+    - "Stereo vision"
+    - "Object pose"
+  featured: false
+  description: "A keypoint-driven method for estimating 6-DoF pose and metric size of multiple objects from a calibrated stereo image pair."
+  media:
+    type: "image"
+    src: "https://kmopss.github.io/figures/model_overview.png"
+    width: 949
+    height: 272
+  links:
+    - label: "Project"
+      href: "https://kmopss.github.io/"
+    - label: "Code"
+      href: "https://github.com/yingkunwu/kmops"
 
 - id: "4d-grt"
   title: "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation"
