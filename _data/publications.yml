@@ -38,6 +38,58 @@
     - label: "Paper"
       href: "https://arxiv.org/abs/2506.04676"
 
+- id: "imagenworld"
+  title: "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks"
+  authors: "Samin Mahdizadeh Sani<sup>*</sup>, Max Ku<sup>*</sup>, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Ting Wai Lam, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, <strong>I-Sheng Fang</strong>, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen"
+  author_note: "<sup>*</sup> Equal contribution."
+  venue: "International Conference on Learning Representations (ICLR)"
+  year: 2026
+  labels:
+    - "ICLR 2026"
+    - "Image generation evaluation"
+  featured: false
+  description: "A large-scale benchmark for evaluating modern image-generation models across open-ended real-world tasks with fine-grained human annotations."
+  media:
+    type: "image"
+    src: "https://tiger-ai-lab.github.io/ImagenWorld/static/images/psudo_banner.png"
+    width: 563
+    height: 258
+  links:
+    - label: "Project"
+      href: "https://tiger-ai-lab.github.io/ImagenWorld/"
+    - label: "Preprint"
+      href: "https://github.com/TIGER-AI-Lab/ImagenWorld/blob/gh-pages/static/preprint.pdf"
+    - label: "Dataset"
+      href: "https://huggingface.co/datasets/TIGER-Lab/ImagenWorld"
+    - label: "Code"
+      href: "https://github.com/TIGER-AI-Lab/ImagenWorld"
+    - label: "Visualization"
+      href: "https://huggingface.co/spaces/TIGER-Lab/ImagenWorld-Visualizer"
+    - label: "Comfy UI Blog"
+      href: "https://blog.comfy.org/p/introducing-imagenworld"
+
+- id: "kmops"
+  title: "KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images"
+  authors: "Ying-Kun Wu, Yi Shen, Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2026
+  labels:
+    - "WACV 2026"
+    - "Stereo vision"
+    - "Object pose"
+  featured: false
+  description: "A keypoint-driven method for estimating 6-DoF pose and metric size of multiple objects from a calibrated stereo image pair."
+  media:
+    type: "image"
+    src: "https://kmopss.github.io/figures/model_overview.png"
+    width: 949
+    height: 272
+  links:
+    - label: "Project"
+      href: "https://kmopss.github.io/"
+    - label: "Code"
+      href: "https://github.com/yingkunwu/kmops"
+      
 - id: "text-slider"
   title: "Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters"
   authors: "Pin-Yen Chiu, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
@@ -207,48 +259,6 @@
       href: "https://ishengfang.github.io/Self-Contained_Stylization/"
     - label: "Code"
       href: "https://github.com/IShengFang/Self-Contained_Stylization"
-
-- id: "imagenworld"
-  title: "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks"
-  authors: "Samin Mahdizadeh Sani<sup>*</sup>, Max Ku<sup>*</sup>, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Ting Wai Lam, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, <strong>I-Sheng Fang</strong>, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen"
-  author_note: "<sup>*</sup> Equal contribution."
-  venue: "International Conference on Learning Representations (ICLR)"
-  year: 2026
-  labels:
-    - "ICLR 2026"
-    - "Image generation evaluation"
-  featured: false
-  description: "A large-scale benchmark for evaluating modern image-generation models across open-ended real-world tasks with fine-grained human annotations."
-  links:
-    - label: "Project"
-      href: "https://tiger-ai-lab.github.io/ImagenWorld/"
-    - label: "Preprint"
-      href: "https://github.com/TIGER-AI-Lab/ImagenWorld/blob/gh-pages/static/preprint.pdf"
-    - label: "Dataset"
-      href: "https://huggingface.co/datasets/TIGER-Lab/ImagenWorld"
-    - label: "Code"
-      href: "https://github.com/TIGER-AI-Lab/ImagenWorld"
-    - label: "Visualization"
-      href: "https://huggingface.co/spaces/TIGER-Lab/ImagenWorld-Visualizer"
-    - label: "Comfy UI Blog"
-      href: "https://blog.comfy.org/p/introducing-imagenworld"
-
-- id: "kmops"
-  title: "KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images"
-  authors: "Ying-Kun Wu, Yi Shen, Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
-  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
-  year: 2026
-  labels:
-    - "WACV 2026"
-    - "Stereo vision"
-    - "Object pose"
-  featured: false
-  description: "A keypoint-driven method for estimating 6-DoF pose and metric size of multiple objects from a calibrated stereo image pair."
-  links:
-    - label: "Project"
-      href: "https://kmopss.github.io/"
-    - label: "Code"
-      href: "https://github.com/yingkunwu/kmops"
 
 - id: "sirr-knowledge-distillation"
   title: "Single Image Reflection Removal Based on Knowledge-Distilling Content Disentanglement"
