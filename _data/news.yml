@@ -3,6 +3,8 @@
   links:
     - label: "Paper"
       href: "https://arxiv.org/abs/2506.04676"
+    - label: "Project Page"
+      href: "https://aiiu-lab.github.io/Gen-n-Val/"
 - date: "2026.05"
   title: "Adapt2Hide is accepted by ICIP 2026."
 - date: "2026.03"
@@ -15,5 +17,7 @@
   links:
     - label: "Paper"
       href: "https://arxiv.org/abs/2506.04676"
+    - label: "Project Page"
+      href: "https://aiiu-lab.github.io/Gen-n-Val/"
 - date: "2026.12.31"
   title: "I am honored to be selected for Taiwan's government-sponsored overseas study fellowship (公費留考), which provides full support in 3 years for my future PhD study abroad."
