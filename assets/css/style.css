@@ -976,12 +976,20 @@ ul {
   display: inline-flex;
   min-height: 38px;
   align-items: center;
+  gap: 0.45rem;
   border: 1px solid color-mix(in srgb, currentColor 28%, transparent);
   border-radius: var(--radius);
   padding: 0.48rem 0.7rem;
   color: inherit;
   font-weight: 700;
   text-decoration: none;
+}
+
+.social-links__icon {
+  flex: 0 0 auto;
+  width: 1.05em;
+  height: 1.05em;
+  stroke-width: 2.2;
 }
 
 .social-links a:hover {

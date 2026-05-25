@@ -17,7 +17,8 @@ image: "/assets/img/profile/profile-og.jpg"
         {% for email in site.data.links.emails %}
           <li>
             <a href="{{ email.href }}" aria-label="Email {{ email.label }} at {{ email.value }}">
-              {{ email.button_label | default: email.value }}
+              {% include icon.html name=email.icon class="social-links__icon" %}
+              <span>{{ email.button_label | default: email.value }}</span>
             </a>
           </li>
         {% endfor %}
@@ -25,7 +26,8 @@ image: "/assets/img/profile/profile-og.jpg"
           {% unless link.kind == "email" %}
             <li>
               <a href="{% if link.href contains '://' or link.href contains 'mailto:' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" {% if link.href contains '://' %}target="_blank" rel="noopener noreferrer"{% endif %}>
-                {{ link.label }}
+                {% include icon.html name=link.icon class="social-links__icon" %}
+                <span>{{ link.label }}</span>
               </a>
             </li>
           {% endunless %}
@@ -33,7 +35,8 @@ image: "/assets/img/profile/profile-og.jpg"
         {% for link in site.data.links.profiles %}
           <li>
             <a href="{% if link.href contains '://' or link.href contains 'mailto:' %}{{ link.href }}{% else %}{{ link.href | relative_url }}{% endif %}" {% if link.href contains '://' %}target="_blank" rel="noopener noreferrer"{% endif %}>
-              {{ link.label }}
+              {% include icon.html name=link.icon class="social-links__icon" %}
+              <span>{{ link.label }}</span>
             </a>
           </li>
         {% endfor %}
