@@ -1082,6 +1082,25 @@ ul {
     min-height: auto;
   }
 
+  .hero__grid {
+    justify-items: center;
+    text-align: center;
+  }
+
+  .hero__content {
+    justify-self: center;
+    margin-inline: auto;
+  }
+
+  .hero__summary,
+  .hero__links {
+    margin-inline: auto;
+  }
+
+  .hero__links {
+    justify-content: center;
+  }
+
   .intro-grid,
   .hero__grid,
   .personal-grid,
@@ -1095,7 +1114,7 @@ ul {
   }
 
   .hero__portrait {
-    justify-self: start;
+    justify-self: center;
     width: min(320px, 72vw);
   }
 
