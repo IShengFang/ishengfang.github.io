@@ -172,6 +172,7 @@ ul {
 
 .site-nav a,
 .theme-toggle,
+.nav-toggle,
 .button,
 .filter-button {
   min-height: 40px;
@@ -204,6 +205,36 @@ ul {
   width: 42px;
   min-width: 42px;
   padding: 0;
+}
+
+.nav-toggle {
+  display: none;
+  width: 42px;
+  min-width: 42px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.nav-toggle__bar {
+  width: 18px;
+  height: 2px;
+  border-radius: 999px;
+  background: currentColor;
+  transition:
+    transform 160ms ease,
+    opacity 160ms ease;
+}
+
+.site-header.is-nav-open .nav-toggle__bar:nth-child(1) {
+  transform: translateY(6px) rotate(45deg);
+}
+
+.site-header.is-nav-open .nav-toggle__bar:nth-child(2) {
+  opacity: 0;
+}
+
+.site-header.is-nav-open .nav-toggle__bar:nth-child(3) {
+  transform: translateY(-6px) rotate(-45deg);
 }
 
 .theme-toggle__icon {
@@ -1091,7 +1122,7 @@ ul {
 
 @media (max-width: 640px) {
   :root {
-    --header-height: 112px;
+    --header-height: 64px;
   }
 
   body {
@@ -1108,21 +1139,80 @@ ul {
   }
 
   .site-header {
+    grid-template-columns: minmax(0, 1fr) auto auto;
+    gap: 0.5rem;
     padding: 0.7rem 1rem;
   }
 
+  .site-brand {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   .site-nav {
-    gap: 0.2rem;
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+    width: 100%;
+    margin-top: 0.2rem;
+    padding-top: 0.55rem;
+    border-top: 1px solid color-mix(in srgb, var(--line) 76%, transparent);
+  }
+
+  .site-header.is-nav-ready .site-nav {
+    display: none;
+  }
+
+  .site-header.is-nav-ready.is-nav-open .site-nav {
+    display: grid;
+  }
+
+  .site-brand {
+    order: 0;
+  }
+
+  .site-header.is-nav-ready .nav-toggle {
+    order: 1;
+    display: inline-flex;
+  }
+
+  .theme-toggle {
+    order: 2;
+  }
+
+  .site-nav {
+    order: 3;
   }
 
   .site-nav a,
-  .theme-toggle {
+  .theme-toggle,
+  .nav-toggle {
     min-height: 34px;
     padding: 0.42rem 0.54rem;
     font-size: 0.9rem;
   }
 
+  .site-nav a {
+    justify-content: flex-start;
+    min-height: 42px;
+    border-color: var(--line);
+    background: var(--surface);
+    color: var(--text);
+    padding: 0.55rem 0.7rem;
+  }
+
   .theme-toggle {
+    width: 36px;
+    min-width: 36px;
+    padding: 0;
+  }
+
+  .nav-toggle {
+    flex-direction: column;
+    gap: 4px;
     width: 36px;
     min-width: 36px;
     padding: 0;

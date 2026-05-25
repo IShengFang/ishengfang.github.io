@@ -44,6 +44,64 @@
     });
   }
 
+  var siteHeader = document.querySelector("[data-site-header]");
+  var navToggle = document.querySelector("[data-nav-toggle]");
+  var siteNav = document.querySelector("[data-site-nav]");
+
+  function setNavigationOpen(isOpen) {
+    if (!siteHeader || !navToggle) {
+      return;
+    }
+
+    siteHeader.classList.toggle("is-nav-open", isOpen);
+    navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    navToggle.setAttribute("aria-label", isOpen ? "Close navigation" : "Open navigation");
+    navToggle.setAttribute("title", isOpen ? "Close navigation" : "Open navigation");
+  }
+
+  if (siteHeader && navToggle && siteNav) {
+    var wideNavigation = window.matchMedia ? window.matchMedia("(min-width: 641px)") : null;
+
+    siteHeader.classList.add("is-nav-ready");
+
+    navToggle.addEventListener("click", function () {
+      setNavigationOpen(!siteHeader.classList.contains("is-nav-open"));
+    });
+
+    Array.prototype.slice.call(siteNav.querySelectorAll("a")).forEach(function (link) {
+      link.addEventListener("click", function () {
+        setNavigationOpen(false);
+      });
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!siteHeader.contains(event.target)) {
+        setNavigationOpen(false);
+      }
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") {
+        setNavigationOpen(false);
+      }
+    });
+
+    if (wideNavigation) {
+      var closeNavigationOnWideScreens = function (event) {
+        if (event.matches) {
+          setNavigationOpen(false);
+        }
+      };
+
+      closeNavigationOnWideScreens(wideNavigation);
+      if (wideNavigation.addEventListener) {
+        wideNavigation.addEventListener("change", closeNavigationOnWideScreens);
+      } else if (wideNavigation.addListener) {
+        wideNavigation.addListener(closeNavigationOnWideScreens);
+      }
+    }
+  }
+
   var filterGroup = document.querySelector("[data-filter-group]");
   var filterItems = document.querySelector("[data-filter-items]");
 
