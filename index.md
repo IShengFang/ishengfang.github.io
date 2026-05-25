@@ -13,16 +13,14 @@ image: "/assets/img/profile/profile-og.jpg"
       <p class="hero__names">Ethan Fang / 方 宜晟 / Gî-Tshiânn Png</p>
       <p class="hero__pronunciation">{{ site.data.profile.pronunciation }}</p>
       <p class="hero__summary">{{ site.data.profile.hero_summary }}</p>
-      <ul class="hero__emails" aria-label="Email addresses">
+      <ul class="hero__links social-links" aria-label="Hero contact and profile links">
         {% for email in site.data.links.emails %}
           <li>
-            <a class="button" href="{{ email.href }}" aria-label="Email {{ email.label }} at {{ email.value }}">
+            <a href="{{ email.href }}" aria-label="Email {{ email.label }} at {{ email.value }}">
               {{ email.button_label | default: email.value }}
             </a>
           </li>
         {% endfor %}
-      </ul>
-      <ul class="hero__links social-links" aria-label="Hero profile links">
         {% for link in site.data.links.primary %}
           {% unless link.kind == "email" %}
             <li>
