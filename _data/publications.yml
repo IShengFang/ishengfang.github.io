@@ -19,7 +19,7 @@
 
 - id: "gen-n-val"
   title: "Gen-n-Val: Agentic Image Data Generation and Validation"
-  authors: "Jing-En Huang<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tzuhsuan Huang<sup>*</sup>, Chih-Yu Wang, Jun-Cheng Chen"
+  authors: "Jing-En Huang<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tzuhsuan Huang, Chih-Yu Wang, Jun-Cheng Chen"
   author_note: "<sup>*</sup> Equal contribution."
   venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings Track (CVPRF)"
   year: 2026
