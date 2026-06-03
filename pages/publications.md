@@ -5,6 +5,7 @@ permalink: /publications/
 kicker: "Research"
 lede: "Peer-reviewed papers, workshop presentations, awards, and project links."
 description: "Publications by I-Sheng Fang in generative AI, computer vision, photography, depth estimation, stereo matching, and style transfer."
+math: true
 ---
 
 <div class="publication-toolbar" data-publication-switch>

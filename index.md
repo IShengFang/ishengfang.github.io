@@ -3,6 +3,7 @@ layout: default
 body_class: "home"
 description: "I-Sheng Fang is a computer vision and generative AI researcher working on photography, depth estimation, style transfer, typography, and creative AI applications."
 image: "/assets/img/profile/profile-og.jpg"
+math: true
 ---
 
 <section class="hero" aria-labelledby="hero-title">

@@ -1,3 +1,14 @@
+- id: "us3net"
+  title: 'US\(^{3}\)Net: Ultralightweight Self-Supervised Stereo Matching Network using Depth-Aware Geometric Soft Occlusion'
+  authors: "Po-Chung Jen, Tzu-Chi Liu, <strong>I-Sheng Fang</strong>, Hsiao-Chieh Wen, Chia-Lun Hsu, Ping-Yang Chen, Chang-Hsing Lee, Yong-Sheng Chen"
+  venue: "International Journal of Computer Vision (IJCV)"
+  year: 2026
+  featured: false
+  description: "An ultralightweight self-supervised stereo matching network for efficient stereo depth estimation on resource-constrained devices, combining a low-complexity feature extractor with Depth-Aware Geometric Soft Occlusion (DAGSO) to improve occlusion handling while using only 12K parameters."
+  links:
+    - label: "Paper"
+      href: "https://link.springer.com/article/10.1007/s11263-026-02868-2"
+
 - id: "adapt2hide"
   title: "Adapt2Hide: Leveraging Off-the-Shelf Autoencoder for Reversible Visual Processing"
   authors: "Ernie Chu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tai-Ming Huang, Pin-Yen Chiu, Vishal Patel, Jun-Cheng Chen"
