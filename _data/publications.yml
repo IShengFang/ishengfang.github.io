@@ -27,7 +27,11 @@
     alt: "Adapt2Hide teaser showing reversible visual processing with an off-the-shelf autoencoder."
     width: 3859
     height: 1851
-
+  links:
+    - label: "Paper"
+      href: "https://ieeexplore.ieee.org/document/11630116/"
+    - label: "Project"
+      href: "https://aiiu-lab.github.io/Adapt2Hide/"
 - id: "gen-n-val"
   title: "Gen-n-Val: Agentic Image Data Generation and Validation"
   authors: "Jing-En Huang<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>*</sup>, Tzuhsuan Huang, Chih-Yu Wang, Jun-Cheng Chen"
@@ -48,7 +52,8 @@
   links:
     - label: "Paper"
       href: "https://arxiv.org/abs/2506.04676"
-
+    - label: "Project"
+      href: "https://aiiu-lab.github.io/Gen-n-Val/"
 - id: "imagenworld"
   title: "ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks"
   authors: "Samin Mahdizadeh Sani<sup>*</sup>, Max Ku<sup>*</sup>, Nima Jamali, Matina Mahdizadeh Sani, Paria Khoshtab, Wei-Chieh Sun, Parnian Fazel, Zhi Rui Tam, Thomas Chong, Edisy Kin Wai Chan, Donald Wai Tong Tsang, Chiao-Wei Hsu, Ting Wai Lam, Ho Yin Sam Ng, Chiafeng Chu, Chak-Wing Mak, Keming Wu, Hiu Tung Wong, Yik Chun Ho, Chi Ruan, Zhuofeng Li, <strong>I-Sheng Fang</strong>, Shih-Ying Yeh, Ho Kei Cheng, Ping Nie, Wenhu Chen"
