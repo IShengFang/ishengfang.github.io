@@ -17,8 +17,21 @@ FIELDS = "id,caption,media_type,media_url,permalink,thumbnail_url,timestamp,user
 
 abort "Set INSTAGRAM_ACCESS_TOKEN before running this script." if ACCESS_TOKEN.empty?
 
+def redact_token(text)
+  text.to_s.gsub(ACCESS_TOKEN, "[REDACTED]")
+      .gsub(URI.encode_www_form_component(ACCESS_TOKEN), "[REDACTED]")
+end
+
+def request_url(uri)
+  safe_uri = uri.dup
+  safe_uri.query = nil
+  safe_uri.fragment = nil
+  safe_uri.userinfo = nil
+  redact_token(safe_uri.to_s)
+end
+
 def fetch_response(uri, limit: 5)
-  raise "Too many redirects while fetching #{uri}" if limit <= 0
+  raise "Too many redirects while fetching #{request_url(uri)}" if limit <= 0
 
   response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == "https") do |http|
     request = Net::HTTP::Get.new(uri)
@@ -32,7 +45,24 @@ def fetch_response(uri, limit: 5)
   when Net::HTTPRedirection
     fetch_response(URI(response.fetch("location")), limit: limit - 1)
   else
-    raise "Request failed for #{uri}: #{response.code} #{response.message}\n#{response.body}"
+    begin
+      payload = JSON.parse(response.body)
+    rescue JSON::ParserError
+      payload = nil
+    end
+    error = payload["error"] if payload.is_a?(Hash)
+
+    if uri.hostname == "graph.instagram.com" && error.is_a?(Hash) && error["code"].to_s == "190"
+      abort <<~MESSAGE
+        Instagram authentication failed (OAuth error 190): the access token has expired or is invalid.
+        Reauthorize the Instagram account in Meta and generate a new long-lived access token.
+        Update INSTAGRAM_ACCESS_TOKEN in GitHub Settings > Secrets and variables > Actions, then rerun this workflow.
+        An expired token cannot be refreshed. See README.md for recovery and renewal instructions.
+        Instagram: #{redact_token(error["message"])}
+      MESSAGE
+    end
+
+    raise "Request failed for #{request_url(uri)}: #{response.code} #{redact_token(response.message)}\n#{redact_token(response.body)}"
   end
 end
 
