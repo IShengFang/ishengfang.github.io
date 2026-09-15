@@ -19,6 +19,8 @@
     - "ICIP 2026"
     - "Reversible visual processing"
     - "Image steganography"
+    - "Oral"
+    - "Spotlight (top 3%)"
   featured: true
   description: "An image steganography approach using large pre-trained autoencoders and LoRA to support high-quality message reconstruction with minimal additional parameters for reversible visual processing applications."
   media:
