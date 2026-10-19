@@ -1,3 +1,26 @@
+- id: "refocusing-any-video"
+  title: "Refocusing Any Video: Temporally Consistent Video Refocusing for Dynamic Focal Planes"
+  authors: "Chee Kim Gan, Pin-Yen Chiu, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
+  venue: "SIGGRAPH Asia"
+  year: 2026
+  labels:
+    - "SIGGRAPH Asia 2026"
+    - "Video refocusing"
+    - "Computational photography"
+  featured: true
+  description: "A two-stage framework that combines video defocus deblurring and video bokeh rendering to refocus videos with time-varying focal planes while preserving temporal consistency and facial identity."
+  media:
+    type: "video"
+    src: "https://aiiu-lab.github.io/Refocusing-Any-Video/asset/results/Video2/rav_stage2_refocus_web.mp4"
+    alt: "Refocusing Any Video demonstration with a dynamically changing focal plane."
+    width: 960
+    height: 544
+  links:
+    - label: "Project"
+      href: "https://aiiu-lab.github.io/Refocusing-Any-Video/"
+    - label: "Code"
+      href: "https://github.com/aiiu-lab/Refocusing-Any-Video"
+
 - id: "us3net"
   title: 'US\(^{3}\)Net: Ultralightweight Self-Supervised Stereo Matching Network using Depth-Aware Geometric Soft Occlusion'
   authors: "Po-Chung Jen, Tzu-Chi Liu, <strong>I-Sheng Fang</strong>, Hsiao-Chieh Wen, Chia-Lun Hsu, Ping-Yang Chen, Chang-Hsing Lee, Yong-Sheng Chen"
