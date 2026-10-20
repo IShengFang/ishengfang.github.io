@@ -11,10 +11,10 @@
   description: "A two-stage framework that combines video defocus deblurring and video bokeh rendering to refocus videos with time-varying focal planes while preserving temporal consistency and facial identity."
   media:
     type: "video"
-    src: "https://aiiu-lab.github.io/Refocusing-Any-Video/asset/results/Video2/rav_stage2_refocus_web.mp4"
+    src: "https://aiiu-lab.github.io/Refocusing-Any-Video/asset/SA26_fast-forward.mp4"
     alt: "Refocusing Any Video demonstration with a dynamically changing focal plane."
-    width: 960
-    height: 544
+    width: 1920
+    height: 1080
   links:
     - label: "Project"
       href: "https://aiiu-lab.github.io/Refocusing-Any-Video/"
