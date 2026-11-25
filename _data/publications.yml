@@ -1,3 +1,40 @@
+- id: "4d-grt"
+  title: "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation"
+  authors: "Yi-Ruei Liu<sup>*</sup>, You-Zhe Xie<sup>*</sup>, Yu-Hsiang Hsu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>&dagger;</sup>, Yu-Lun Liu, Jun-Cheng Chen"
+  author_note: "<sup>*</sup> Equal contribution. Work done at Academia Sinica as interns. <sup>&dagger;</sup> Internship mentor."
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027
+  labels:
+    - "Physics-based data generation"
+  featured: true
+  description: "A two-stage pipeline combining 4D Gaussian Splatting with physically based ray tracing to simulate real-world camera effects such as fisheye distortion, rolling shutter, and depth of field."
+  media:
+    type: "video"
+    src: "https://shigon255.github.io/4DGRT-project-page/media/teaser/teaser.mp4"
+    alt: "4D Gaussian ray tracing video preview for camera effects."
+    width: 1360
+    height: 1024
+  links:
+    - label: "Paper"
+      href: "https://arxiv.org/abs/2509.10759"
+    - label: "Project"
+      href: "https://shigon255.github.io/4DGRT-project-page/"
+
+- id: "ngls"
+  title: "Parameter Efficient Domain Adaptive Object Detection via Noise-Guided Layer Selection"
+  authors: "Tzuhsuan Huang, <strong>I-Sheng Fang</strong>, Pin-Yen Chiu, Jun-Cheng Chen"
+  author_note: ""
+  venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2027
+  labels:
+    - "Parameter-efficient fine-tuning"
+    - "Domain adaptation"
+  featured: false
+  description: "A plug-and-play layer selection method that leverages feature stability under Gaussian noise perturbations to identify critical backbone layers for parameter-efficient domain adaptive object detection, reducing trainable parameters by up to 98% while maintaining competitive detection performance."
+  links:
+    - label: "Paper"
+      href: ""
+
 - id: "refocusing-any-video"
   title: "Refocusing Any Video: Temporally Consistent Video Refocusing for Dynamic Focal Planes"
   authors: "Chee Kim Gan, Pin-Yen Chiu, <strong>I-Sheng Fang</strong>, Jun-Cheng Chen"
@@ -157,29 +194,6 @@
       href: "https://kmopss.github.io/"
     - label: "Code"
       href: "https://github.com/yingkunwu/kmops"
-
-- id: "4d-grt"
-  title: "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation"
-  authors: "Yi-Ruei Liu<sup>*</sup>, You-Zhe Xie<sup>*</sup>, Yu-Hsiang Hsu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>&dagger;</sup>, Yu-Lun Liu, Jun-Cheng Chen"
-  author_note: "<sup>*</sup> Equal contribution. Work done at Academia Sinica as interns. <sup>&dagger;</sup> Internship mentor."
-  venue: "NeurIPS 2025 Workshop on SPACE in Vision, Language, and Embodied AI (SpaVLE)"
-  year: 2025
-  labels:
-    - "Oral"
-    - "Physics-based data generation"
-  featured: true
-  description: "A two-stage pipeline combining 4D Gaussian Splatting with physically based ray tracing to simulate real-world camera effects such as fisheye distortion, rolling shutter, and depth of field."
-  media:
-    type: "video"
-    src: "https://shigon255.github.io/4DGRT-project-page/static/videos/realworld/rs_h264.mp4"
-    alt: "4D Gaussian ray tracing video preview for camera effects."
-    width: 1360
-    height: 1024
-  links:
-    - label: "Paper"
-      href: "https://arxiv.org/abs/2509.10759"
-    - label: "Project"
-      href: "https://shigon255.github.io/4DGRT-project-page/"
 
 - id: "camerabench"
   title: "CameraBench: Benchmarking Visual Reasoning in MLLMs via Photography"
