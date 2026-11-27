@@ -53,6 +53,8 @@
     width: 1920
     height: 1080
   links:
+    - label: "Paper"
+      href: "https://dl.acm.org/doi/10.1145/3829340.3842326"
     - label: "Project"
       href: "https://aiiu-lab.github.io/Refocusing-Any-Video/"
     - label: "Code"
