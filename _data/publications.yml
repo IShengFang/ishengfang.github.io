@@ -1,6 +1,6 @@
 - id: "4d-grt"
   title: "Every Camera Effect, Every Time, All at Once: 4D Gaussian Ray Tracing for Physics-based Camera Effect Data Generation"
-  authors: "Yi-Ruei Liu<sup>*</sup>, You-Zhe Xie<sup>*</sup>, Yu-Hsiang Hsu<sup>*</sup>, <strong>I-Sheng Fang</strong><sup>&dagger;</sup>, Yu-Lun Liu, Jun-Cheng Chen"
+  authors: "Yi-Ruei Liu<sup>*</sup>, You-Zhe Xie<sup>*</sup>, Yu-Hsiang Hsu<sup>*</sup>, Jing-En Huang, <strong>I-Sheng Fang</strong><sup>&dagger;</sup>, Yu-Lun Liu, Jun-Cheng Chen"
   author_note: "<sup>*</sup> Equal contribution. Work done at Academia Sinica as interns. <sup>&dagger;</sup> Internship mentor."
   venue: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
   year: 2027
